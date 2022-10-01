@@ -885,7 +885,7 @@ im sick and done with all of you morons
 
 &emsp;而后，Mr\_Zhang进入pro“试探”管理员，想得到authtrip报酬，但惨遭反华分子lol封禁。详见[lol事件](#lol事件)。
 
-&emsp;次日，Mr\_Zhang通过TBotTT机器人给管理员R留言，想试探R但并未得到回应。不久，小张绷不住了，在GitHub上提了个issue才得到重视，并于北京时间2022年晚上9时57分修复此BUG。Mr\_Zhang又询问了一些关于HC站长Marzavec的事情，这才证明了HC站长并不是R而是Marzavec，HC长时间来的站长之谜终于得到解决。
+&emsp;次日，Mr\_Zhang通过TBotTT机器人给管理员R留言，想试探R但并未得到回应。不久，小张绷不住了，在GitHub上提了个issue才得到重视，并于北京时间2022年晚上9时57分修复此BUG。Mr\_Zhang又询问了一些关于“HC站长Marzavec”的事情。然而，jill等许多用户声称，R和Marzavec本就是同一个人。
 
 &emsp;其他管理员的回复如下：
 
