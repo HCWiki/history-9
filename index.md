@@ -3,12 +3,14 @@
 
 
 ## 发布地址
+注：发布地址可能出现不可用的情况。
  - [Maggie的知识库](https://docs.thz.cool/#/chatroom-history-book)（深色模式，字数统计）
  - [ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)（浅色模式，字数统计）
- - [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计）
+ - [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
  - [DataEveryting的Github仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)（历史版本）
  - ~~[Maggie的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)（社区，多人编辑）~~（Meggie的wiki因为服务器过期暂时下线，待重建）
  - [Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)（小张盗版）
+ - [4n0n4me的GitHub Page](https://hcwiki.github.io/history/)（较为稳定的版本）
 
 
 ## 友情站点
@@ -316,7 +318,7 @@ n3CJhb Chumo
 
 
 ### HC权限纠纷
-&emsp;在HC中，一般认为有权限的管理员中没有中国人。然而，在智械时期，有破坏行为出现，the\_colorless\_green（TCG）向管理员请求权限以惩治破坏现象。据说，TCG本有可能被任命为管理员（**moderator**），但由于在管理员来到YC时试图推荐4n0n4me，最终，管理员~~认为麻烦~~部署了有管理员权限的ModBot，并授予了TCG与4n0n4me机器人ModBot的使用权。
+&emsp;在HC中，一般认为有权限的管理员中没有中国人。然而，在智械时期，有破坏行为出现，the\_colorless\_green（TCG）向管理员请求权限以惩治破坏现象。据说，TCG本有可能被任命为管理员（**moderator**），但由于在管理员来到yc时试图推荐4n0n4me，最终，管理员~~认为麻烦~~部署了有管理员权限的ModBot，并授予了TCG与4n0n4me机器人ModBot的使用权。
 
 &emsp;ModBot能够被命令触发的权限功能较为有限，且只能在固定的频道运行，因此授权者（一般称为协管）的权限有限。然而，这结束了中国人没有权限的时代，并且经过机器人的赋能，这种权限一定程度上也足以防御**卢本伟**等臭名昭著的破坏者的破坏行为。
 
@@ -924,7 +926,7 @@ Which is usually zero USD
 ```
 
 ### Mr\_Zhang的言论与Mr\_Zhang对HC大轰炸
-&emsp;9月上旬末，Mr\_Zhang建立了个人博客，并在上面发布了聊天室历史书的分支，其中将原本的编辑团队称为“原编辑团队”，自称“现编辑团队”。在该版本的历史书中，Mr\_Zhang发表了自己对yc与xc关系的看法与一些追求和平的言论。
+&emsp;9月上旬末，Mr\_Zhang建立了个人博客，并在上面发布了聊天室历史书的分支，其中将原本的编辑团队称为“原编辑团队”，自称“现编辑团队”。在该版本的历史书中，Mr\_Zhang发表了自己对yc与XC关系的看法与一些追求和平的言论。
 
 > 据小张总结，yc现在基本分成两派：和平派（代表人物：Maggie和zzChumo）和战争派（代表人物：4n0n4me和Light），许多战争派的人物都有向和平派靠拢的意思。
 >
