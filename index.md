@@ -924,13 +924,13 @@ Which is usually zero USD
 ```
 
 # Mr\_Zhang的言论与Mr\_Zhang对HC大轰炸
-&emsp;9月上旬末，Mr\_Zhang建立了个人博客，并在上面发布了聊天室历史书的分支，其中将原本的编辑团队称为“原编辑团队”，自称“现编辑团队”。在该版本的历史书中，Mr\_Zhang发表了自己对YC与XC关系的看法与一些追求和平的言论。
+&emsp;9月上旬末，Mr\_Zhang建立了个人博客，并在上面发布了聊天室历史书的分支，其中将原本的编辑团队称为“原编辑团队”，自称“现编辑团队”。在该版本的历史书中，Mr\_Zhang发表了自己对yc与xc关系的看法与一些追求和平的言论。
 
 > 据小张总结，yc现在基本分成两派：和平派（代表人物：Maggie和zzChumo）和战争派（代表人物：4n0n4me和Light），许多战争派的人物都有向和平派靠拢的意思。
 >
 > 我们相信XChat和your-channel两方的纠纷会顺利解决的，每个人都有机会站在聊天室大舞台的中央，为聊天室事业做出贡献！——Mr\_Zhang
 
-&emsp;然而，Mr\_Zhang却为一己私利，用脚本攻击了PRO和YC。并且，Mr\_Zhang对验证码bug的利用并不像其在历史书中所说的那样简单。他曾经将这个bug提供给试图破解HC验证码的MelonFish：
+&emsp;然而，Mr\_Zhang却为一己私利，用脚本攻击了pro和yc。并且，Mr\_Zhang对验证码bug的利用并不像其在历史书中所说的那样简单。他曾经将这个bug提供给试图破解HC验证码的MelonFish：
 
 ```
 Mr_Z_hang 
@@ -952,7 +952,7 @@ Mr_Z_hang
 我和pro的人说过了，结果pro的态度不是很好
 ```
 
-&emsp;并且，Mr\_Zhang还用这个bug轰炸了PRO。
+&emsp;并且，Mr\_Zhang还用这个bug轰炸了pro。
 
 ```
 bw7Gkq Mr_Zhang
@@ -968,7 +968,7 @@ bw7Gkq Mr_Zhang
 用着验证码的BUG轰炸
 ```
 
-&emsp;因为与light产生冲突，Mr\_Zhang发现YC无人支持自己（当时也无人支持light），于是轰炸YC。但是当时YC锁房，小张的轰炸没有其效果。
+&emsp;因为与light产生冲突，Mr\_Zhang发现yc无人支持自己（当时也无人支持light），于是轰炸yc。但是当时yc锁房，小张的轰炸没有其效果。
 
 ```
 bw7Gkq Mr_Zhang
@@ -1034,7 +1034,7 @@ bw7Gkq Mr_Zhang
 666
 ```
 
-&emsp;由于4n0n4me的疏忽大意，导致轰炸机进入YC。
+&emsp;由于4n0n4me的疏忽大意，导致轰炸机进入yc。
 
 ```
 /9Br2y 4n0n4me_
@@ -1090,7 +1090,7 @@ bw7Gkq Mr_Zhang
 噗！
 ```
 
-&emsp;由于Mr\_Zhang攻击了HC活跃频道中的两个：PRO和YC，将这次事件称为Mr\_Zhang对HC大轰炸。
+&emsp;由于Mr\_Zhang攻击了HC活跃频道中的两个：pro和yc，将这次事件称为Mr\_Zhang对HC大轰炸。
 
 ```
 Aice
