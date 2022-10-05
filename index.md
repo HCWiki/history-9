@@ -446,7 +446,7 @@ nickname123
 
 &emsp;在中期，lo常驻成员基本都是协管。同时yc也差不多，原因是DPG以“协管的协管”为理由，大量添加能通过有协管权限的AfK_Bot的“协管的协管”，yc的协管人数也陷入迷惑。但因此功能至今使用者较少，且在卢本伟事件中发挥重大作用，因而被暂定为没有危害。
 
-&emsp;由于[大乱动时代](#大乱动时代)的混乱，lo方（HC的lounge频道的活跃用户）为了与yc方和XC方划清关系，签订了xuanwei起草的[lounge独立宣言](http://xw.hhua.shop/lounge.html)。其中的内容对lo协管人数做了规范，表明lo频道“将维持全员协管的传统与特色”、“协管的协管将不会再存在”、“有必要整理协管名单”、“可能考虑申请正式管理员的存在”等。
+&emsp;由于[大乱动时代](#大动乱时代)的混乱，lo方（HC的lounge频道的活跃用户）为了与yc方和XC方划清关系，签订了xuanwei起草的[lounge独立宣言](http://xw.hhua.shop/lounge.html)。其中的内容对lo协管人数做了规范，表明lo频道“将维持全员协管的传统与特色”、“协管的协管将不会再存在”、“有必要整理协管名单”、“可能考虑申请正式管理员的存在”等。
 
 
 
@@ -705,7 +705,7 @@ github也是垃圾
 
 &emsp;早在2021年9月，HC老用户jill和emankicN，就开辟了机器人挖识别码的道路。7月下旬，HC用户ee用自创的识别码机器人挖识别码。随后，DPG、Hack4r跟进并改进了ee的识别码机器人，增加了多线程及代理，MelonFish开发了基于DPG识别码机器人而开发的带图形交互界面的tripminer。
 
-&emsp;随着这几人识别码数量越来越多，Light、Maggie、xuanwei等用户也跟进挖识别码。这些不停~~日房~~进出聊天室的机器人多为攻击用机器人改编而成，即MuRongPIG的轰炸姬，详见[YC帝国](#YC帝国)这一时期。
+&emsp;随着这几人识别码数量越来越多，Light、Maggie、xuanwei等用户也跟进挖识别码。这些不停~~日房~~进出聊天室的机器人多为攻击用机器人改编而成，即MuRongPIG的轰炸姬，详见[YC帝国](#yc帝国)这一时期。
 
 &emsp;早期，ee、DPG、Hack4r、memset0等几人只要挖到识别码会立马公开，使得识别码热潮的范围进一步扩大。Hack4r在note.ms上公开了他挖到的所有识别码。其中，出现了第一个由HC用户发现的纯数字识别码。
 
@@ -780,7 +780,7 @@ addtrip（XC的自定义识别码功能）不是个好东西，使XC的识别码
 
 
 ### CC大轰炸
-&emsp;在HC识别码商业化提出当晚，CC聊天室公共聊天频道上遭到轰炸姬刷屏，管理员没办法只好锁房。当时，一直以来与CC有较大矛盾的用户Mr\_Zhang（详见[Mr\_Zhang事件](#Mr\_Zhang事件)）也在现场。且作为ZHC站长，Mr\_Zhang曾多次推广在CC推广说“ZHC聊天室有多好”、“和十字街相比哪个更好”等，引起CC用户反感。Mr\_Zhang被一度认为是刷屏的罪魁祸首。
+&emsp;在HC识别码商业化提出当晚，CC聊天室公共聊天频道上遭到轰炸姬刷屏，管理员没办法只好锁房。当时，一直以来与CC有较大矛盾的用户Mr\_Zhang（详见[Mr\_Zhang事件](#mr_Zhang事件)）也在现场。且作为ZHC站长，Mr\_Zhang曾多次推广在CC推广说“ZHC聊天室有多好”、“和十字街相比哪个更好”等，引起CC用户反感。Mr\_Zhang被一度认为是刷屏的罪魁祸首。
 
 > （ZHC）其实光是加载速度和域名方面就已经不如CC了。 ——zzChumo 2022年8月
 
@@ -842,7 +842,7 @@ but it works
 
 > 抄人家东西还不给人家用，我们的小张真的是太厉害辣！ ——zzChumo 2022年8月
 
-&emsp;8月10日晚，ee在XC使用HTML发送了大量有关Minecraft的音乐（[XC与Minecraft](#XC与Minecraft)），以此来悼念曾经的XC与曾经的鱼。
+&emsp;8月10日晚，ee在XC使用HTML发送了大量有关Minecraft的音乐（[XC与Minecraft](#xc与minecraft)），以此来悼念曾经的XC与曾经的鱼。
 
 > 电 子 灵 堂 ——zzChumo 2022年8月
 
@@ -856,7 +856,7 @@ but it works
 
 
 ### XC大迭代
-&emsp;USBot事件结束后，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#XC聊天室)。与此相比截然不同的是XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人被撤职，留下了的只有主要维护人员Mr\_Zhang、老管理MuRongPIG、支持XC的新管理OIer酱、收了鱼贿赂的QiuLingYan。
+&emsp;USBot事件结束后，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#xc聊天室)。与此相比截然不同的是XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人被撤职，留下了的只有主要维护人员Mr\_Zhang、老管理MuRongPIG、支持XC的新管理OIer酱、收了鱼贿赂的QiuLingYan。
 
 &emsp;在这起事件里，对XC感到失望的老成员选择离开XC，回归HC。星聊、TC、ZC等地也被多次作为“战争避难所”候补，专门用于躲避从XC来的Mr\_Zhang、MelonFish等人装作机器人的眼线。
 
@@ -987,7 +987,7 @@ im sick and done with all of you morons
 
 
 ### XJ两站冲突
-&emsp;此冲突是[JSPVZ事件](#JSPVZ事件)后XC方并未给出事情交代、XC管理QiuLingYan与JSPVZ方进一步争吵导致事情恶化的结果。
+&emsp;此冲突是[JSPVZ事件](#jspvz事件)后XC方并未给出事情交代、XC管理QiuLingYan与JSPVZ方进一步争吵导致事情恶化的结果。
 
 &emsp;JSPVZ事件期间，B站的J在B站发布声讨XC管理的视频。2022年8月26日，QiuLingYan在视频的评论中侮辱了B站的J，甚至没过几天便重新获得管理。B站的J向QiuLingYan质问该年8月16日发生的JSPVZ事件，QiuLingYan却逃避问题，还嘲讽```“B站的J只有4年级”```。
 
