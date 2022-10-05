@@ -4,13 +4,15 @@
 
 ## 发布地址
 注：发布地址可能出现不可用的情况。
- - [Maggie的知识库](https://docs.thz.cool/#/chatroom-history-book)（深色模式，字数统计）
  - [ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)（浅色模式，字数统计）
  - [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
  - [DataEveryting的Github仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)（历史版本）
- - ~~[Maggie的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)（社区，多人编辑）~~（Meggie的wiki因为服务器过期暂时下线，待重建）
- - [Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)（小张盗版）
  - [4n0n4me的GitHub Page](https://hcwiki.github.io/history/)（较为稳定的版本）
+ 
+过去的发布地址：
+ - ~~[Maggie的知识库](https://docs.thz.cool/#/chatroom-history-book)~~（已下线）
+ - ~~[Maggie的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)~~（Maggie的wiki因为服务器过期已下线）
+ - ~~[Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)~~（已删除）
 
 
 ## 友情站点
@@ -21,7 +23,7 @@
 
 
 ## 编辑团队
- - [4n0n4me](https://www.pillows.net.eu.org/)（主编）
+ - [4n0n4me](https://www.pillows.net.eu.org/)（早期主编）
  - [ee](https://paperee.tk)（副主编，修改格式，整理目录）
  - [Maggie](https://thz.cool/)（项目提出者，修改格式，整理目录）
  - [zzChumo](https://www.zzchat.cf/)（润色，内容补充）
@@ -507,7 +509,7 @@ nickname123
 
 
 ### awa及衍生
-&emsp;awa，读作阿瓦或阿瓦阿。在awa表情盛行早起，DPG和黑茶创作了关于awa的同人作品（万物皆可同人），即阿瓦国和阿瓦语。
+&emsp;awa，读作阿瓦或阿瓦阿，也有人用中文拟声词啊哇、啊呜哇代替。在awa表情盛行早期，DPG和黑茶创作了关于awa的同人作品（万物皆可同人），即阿瓦国和阿瓦语。
 
 &emsp;西阿亚及低瓦斯联合国（West Aya and Low Waas United Nation），简称阿瓦国（awaland），部分用户称为阿瓦兰（awaland的音译）。成立于2022年4月22日，在HC的lo和XC等地广为人知。阿瓦语（awaish）是阿瓦国的语言文字，具体表现为以“a”和“w”两个字母的不同组合来表示简单的意思。除概念外，阿瓦语语言体系创作由4n0n4me执笔。
 
