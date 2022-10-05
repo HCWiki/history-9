@@ -11,7 +11,7 @@
  
 过去的发布地址：
  - ~~[Maggie的知识库](https://docs.thz.cool/#/chatroom-history-book)~~（已下线）
- - ~~[Maggie的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)~~（Maggie的wiki因为服务器过期已下线）
+ - ~~[Maggie的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)~~（因服务器过期，已下线）
  - ~~[Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)~~（已删除）
 
 
