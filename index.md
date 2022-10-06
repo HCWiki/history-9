@@ -1269,13 +1269,56 @@ Mr_Zhang
 
 
 ### 部分引用
+ - HC聊天室
+    - [HC指令](https://tieba.baidu.com/p/6833224084)（by.Lithium&666）
+
+ - HC早期梗
+    - [Why did u call urself?](https://www.zzchat.cf/wiki/hh.html)（by.zzChumo）
+    - [jill的glue](https://www.zzchat.cf/wiki/glue.html)（by.zzChumo&ee）
+
+ - 机器人学
+    - [机器人](https://hcwiki.github.io/#机器人)（by.4n0n4me）
+
+ - 文艺创作
+    - [HCworks111](https://note.ms/HCworks111)（by.tctd&ee）
+
  - detele事件
     - [HC百科 by.zzChumo&13](https://www.zzchat.cf/wiki/notice.html)
 
+ - HC权限纠纷
+    - [lounge独立宣言](http://xw.hhua.shop/lounge.html)（by.xuanwei）
+
+ - 游戏热潮
+    - [《44FF00》](https://drive.noire.cc/s/lNdOu1?path=/myGame)（by.ee）
+    - [《吃掉坏初墨》](https://game.osww.cn/eat-chumo)（by.ee）
+    - [《鱼的报复计划》PC版](https://home.osww.cn/?p=96)（by.ee&Qwer）
+    - [《鱼的报复计划》web版](https://game.osww.cn/revenge)（by.Bird&ee&Qwer）
+    - [《XC模拟.器》web版](https://game.osww.cn/xc)（by.Maggie&4n0n4me）
+    - [《麻鸡的恐怖冒险》](https://game.osww.cn/maggie)（by.Bird）
+    - [《麻鸡的拯救计划》](https://game.osww.cn/grrd)（by.ee&zzChumo）
+    - [《ee的奇妙冒险》](https://www.zzchat.cf/GAF/Game.html)（by.zzChumo）
+
  - 卢本伟事件
-    - [卢本伟罪行 by.Mr\_Zhang](https://file.node2.thz.cool/fileshare/.upload/4c784be700cfe43.log)
-    - [反击高能部分 by.MelonFish](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-cb051ef9-0256-42af-80d2-f2dc9e295a34/2f8f3653-db43-4736-8962-aee33d6289c2.txt)
-    - [反击全过程 by.ee](https://paperee.tk/2022.07.16_your-channel.txt)
+    - [卢本伟罪行](https://file.node2.thz.cool/fileshare/.upload/4c784be700cfe43.log)（by.Mr\_Zhang）
+    - [反击高能部分](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-cb051ef9-0256-42af-80d2-f2dc9e295a34/2f8f3653-db43-4736-8962-aee33d6289c2.txt)（by.MelonFish）
+    - [反击全过程](https://paperee.tk/2022.07.16_your-channel.txt)（by.ee）
+    - [聊天室反引用刷屏](https://greasyfork.org/zh-CN/scripts/448444-聊天室反引用刷屏)（by.4n0n4me）
+    - [聊天室危险消息屏蔽](https://greasyfork.org/zh-CN/scripts/449697-聊天室危险消息屏蔽)（by.4n0n4me）
+
+ - 人数巅峰
+    - [人数巅峰.png](https://book.paperee.guru/chatroom-history-book/人数巅峰.png)（by.ee）
+
+ - 识别码热潮
+    - [不要买付费识别码的五个理由](https://hcwiki.github.io/#不要买付费识别码的五个理由)（by.4n0n4me）
+
+ - USBot事件
+    - [USBot事件.png](https://book.paperee.guru/chatroom-history-book/USBot事件.png)（by.ee）
+
+ - JSPVZ事件
+    - [声讨XChat](https://www.bilibili.com/video/BV1Te4y1f7zg/)（by.B站的J）
+    - [XChat事件](https://jspvz.fandom.com/zh/wiki/社区事件#2022年8月16日至2022年8月19日-XChat（一个基于hack.chat的网络聊天室）事件)（by.B站的J）
+    - [XChat冲突二](https://jspvz.fandom.com/zh/wiki/社区事件#2022年8月26日-XChat冲突二)（by.B站的J）
+    - [12323434.png](https://static.wikia.nocookie.net/jspvz/images/6/69/12323434.png/revision/latest?cb=20220817015014&path-prefix=zh)（by.B站的J）
 
 
 ### 常用语
@@ -1323,6 +1366,10 @@ Mr_Zhang
     - eb：e**eb**ot，ee根据Foolishbird制作。
     - reb：**r**e**eb**ot，名为蓉儿的eebot，xuanwei根据eebot改写而成。
     - usb：**USB**ot，MelonFish放置于yc扰乱环境的机器人，并非USB接口。
+    - bu_ug：？的前身，意指“BUG”。
+    - bo_od：MuRongPIG的机器人。
+    - do_ob：Henrize的机器人。
+    - dx_xb：Sprinkle的机器人。
 
  - 翻译与缩写
     - afk：**A**way **f**rom **k**eyboard，离开键盘，挂机。
