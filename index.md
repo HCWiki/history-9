@@ -1248,6 +1248,22 @@ bw7Gkq Mr_Zhang
 &emsp;CrackedX是zzChumo制作的XC客户端，主要功能为在加入聊天室时使用token，从而绕过验证码与ip检测。在大动乱时代初期，MelonFish就封禁了一些反对者的浏览器指纹（并移除了一些反对者的token），后来部分用户才被解封。因此，4n0n4me取CrackedX的名字，制作了NewCrackedX客户端（NCX）。NCX和CrackedX一样几乎没有被公开发布过。在大动乱时代之前，XC遭遇未知来源的轰炸时，轰炸机使用了虚假的浏览器指纹，使4n0n4me获得使用虚假指纹绕过封禁的灵感，篡改浏览器指纹也成为了NCX最主要的功能。由于4n0n4me多次利用虚假指纹前往XC发表不利言论，MelonFish决定封锁虚假指纹功能。他使用AES算法加密浏览器指纹，并对XC客户端的js代码进行了混淆，使第三方客户端无法提供正确加密的浏览器指纹，NCX的开发和利用也停止了。
 
 
+### ZhangShell事件
+&emsp;2022年9月末（存疑），zzChumo看Mr\_Zhang的机器人ZhangHelper可以在线执行终端命令，请Mr\_Zhang做一个可以在线执行终端命令的机器人，作为GS Cloud（zzChumo的团队GS Team的云服务）的云电脑服务。ZhangHelper仅能返回命令执行的状态码，而不能返回终端输出的结果。Mr\_Zhang经过努力研究，制作出ZhangShell机器人，可以在线执行终端命令，还可以回复终端输出的内容。
+
+&emsp;后来，Mr\_Zhang使用用户名`asdf`加入yc，因为与Hack4r等用户产生冲突，他的hash被使用dpg的AfK_Bot封禁了。
+
+&emsp;10月国庆节初，ee部署了eebot，有留言功能的同时，也负责按照用户名踢出Mr\_Zhang等用户。有一次，使用用户名`asdf`的Mr\_Zhang试图将ZhangShell部署在yc，却因为用户名中含有关键词`Zhang`而不断地被立刻踢出。Mr\_Zhang十分疑惑，试图找出是谁踢出了他的机器人。4n0n4me大意之下，告诉了Mr\_Zhang是eebot踢出了ZhangShell。发现失言后，4n0n4me称该功能的存在为历史遗留问题，并私信ee提供了一个方案：撤掉eebot的踢人功能，自己上线另一个bot顶替。这方案毫无作用、十分离谱，于是ee直接将这私聊内容发至公屏，表示~~破罐子破摔~~开摆。Mr\_Zhang发现4n0n4me和ee私聊交谈对他不利的内容、都试图坑他，十分生气。于是，本来崇尚和平的Mr\_Zhang与yc产生了冲突。
+
+&emsp;Mr\_Zhang让HC怀疑他的人去翻GitHub的源代码。可Maggie和ee却反驳说`不能判断Mr\_Zhang运行的就是GitHub上的源码`，在Mr\_Zhang开ftp展示他运行的代码后，这两人纷纷被打脸。期间，ee与4n0n4me发生摩擦，三句话里有两句都在骂4n0n4me是`猪队友`。
+
+&emsp;Mr\_Zhang对于在大乱动时代HC用户们认为他写的任何东西都不安全这回事非常生气，便无差别怒骂在HC的所有前XC用户，以`HC的用户都不安全`这一理由将几乎全部前XC用户从XC封禁，只有MuRongPig和dpg等少数用户幸存。就连一开始认为`以Mr\_Zhang的人品不会做出这种走后门的不道德举动`、以自身协管地位为Mr\_Zhang做担保的用户zzChumo都被不被他信任。
+
+```
+Mr_Zhang
+合起伙来坑我是吧（与原文可能有出入。）
+```
+
 ## 附录
 &emsp;有关本书中出现的需要补充的特定用语等。
 
