@@ -6,7 +6,7 @@
 注：发布地址可能出现不可用的情况。
  - [ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)（浅色模式，字数统计）
  - [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
- - [DataEveryting的Github仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)（历史版本）
+ - [DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)（历史版本）
  - [4n0n4me的GitHub Page](https://hcwiki.github.io/history/)（较为稳定的版本）
  
 过去的发布地址：
@@ -44,6 +44,7 @@
  - 除?bot、?test、?chinese、?china、YC帝国外，频道名均使用小写字母缩写。
  - 文章中出现的所有缩写详见附录[常用语](#常用语)。
  - 这是一本涵盖解说、绯闻及网络攻击的历史书。
+ - 若发现任何语病、错字或事实错误，欢迎通过在[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)或[HCWiki的GitHub仓库](https://github.com/HCWiki/history)提issue等方式，或在聊天室中联系编辑团队。
 
 
 ## 编年史
@@ -267,7 +268,7 @@ n3CJhb Chumo
 
 
 ### 人格分裂
-&emsp;本节标题中的“人格分裂”，并非真实的人格分裂病症，而是Queen在yc公屏上扮演“一人多角”、展开全家催作业名场面长达半个多小时而给当时yc的Light、THEWESTSHELL、hh、ee、alex几位用户留下的不良印象。Queen此人已经在[Queen事件](#Queen事件)中“名留青史”，后来消失了几个月，可在智械时代又重新复出。
+&emsp;本节标题中的“人格分裂”，并非真实的人格分裂病症，而是Queen在yc公屏上扮演“一人多角”、展开全家催作业名场面长达半个多小时而给当时yc的Light、THEWESTSHELL、hh、ee、alex几位用户留下的不良印象。Queen此人已经在[Queen事件](#queen事件)中“名留青史”，后来消失了几个月，可在智械时代又重新复出。
 
 &emsp;聊天室屏幕上零星的几个用户中，突然掺杂了大量像“QueenMother”、“QueenFather”、“QueenGrandpa”、“QueenGrandma”这样的昵称，实则全为Queen一个人扮演。这几个ID不停轮流@Queen催她写作业，在Queen的自导自演下，扮演了一出除了Queen本人外没人笑的喜剧。况且这时候并没有ModBot此类协管机器人存在，用户们敢怒敢骂，但Queen只是自顾自演她自己的剧场，十分烦人。
 
@@ -960,7 +961,7 @@ but it works
 
 &emsp;由于滥用权限，QiuLingYan的管理被撤销。2022年8月26日，QiuLingYan在视频的评论中侮辱了B站的J，甚至没过几天便重新获得管理。B站的J向QiuLingYan质问该年8月16日的IP问题，QiuLingYan却逃避问题，还嘲讽`“B站的J只有4年级”`。
 
-&emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将两人禁言。MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan滥用权限，其疑似将XC聊天室?jspvz频道的记录彻底删除，试图掩盖证据。讽刺的是，在其以前泄露IP时声称“已关闭记录”时实则并未关闭，而在这次冲突中，他将记录自己发出的消息功能关闭了。
+&emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将两人禁言。MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan疑似滥用权限将XC聊天室?jspvz频道的记录清除，试图掩盖证据。讽刺的是，在其以前泄露IP时声称“已关闭记录”时实则并未关闭，而在这次冲突中，他将记录自己发出的消息功能关闭了。
 
 &emsp;本次事件转载并修改自JSPVZ社区[XChat事件](https://jspvz.fandom.com/zh/wiki/社区事件#2022年8月16日至2022年8月19日-XChat（一个基于hack.chat的网络聊天室）事件)和[XChat冲突二](https://jspvz.fandom.com/zh/wiki/社区事件#2022年8月26日-XChat冲突二)。附[事件截图](https://static.wikia.nocookie.net/jspvz/images/6/69/12323434.png/revision/latest?cb=20220817015014&path-prefix=zh)。
 
@@ -1065,9 +1066,9 @@ im sick and done with all of you morons
 
 &emsp;然而在本时代末，被azhe从小蝌蚪互动聊天室引的新用户轻舞飞扬极其热爱唱歌。鉴于XC有两个语音功能，许多XC用户便建议他开麦唱歌。这场演唱会吸引了不少从CC来的用户，听众数量蹭蹭上涨。当时听歌的用户有azhe、ee、Outlier、Arcadia等人，他们在给轻舞飞扬点歌和欢呼的同时，也在[月下人狼](https://www.werewolf.com.cn/)玩狼人杀。
 
-&emsp;演唱会大约在晚上8点左右持续到晚上10点多（聊天记录的丢失已无法考证）。演唱会期间比较有趣的小插曲：在轻舞飞扬唱歌中途，他老妈多次闯进房间打断他的歌声，结果语音中途就出现了大量轻舞飞扬和他老妈的对话；当不会唱的时候，轻舞飞扬就会用“呱呱呱”代替，紧接着XC听众们就会跟着发“呱呱呱”。当时的xq公屏，被大量的“呱呱呱”、“咕咕咕”、“嘎嘎嘎”消息霸屏了。
+&emsp;演唱会大约在晚上8点左右持续到晚上10点多（因聊天记录的丢失已无法考证）。演唱会期间比较有趣的小插曲：在轻舞飞扬唱歌中途，他老妈多次闯进房间打断他的歌声，结果语音中途就出现了大量轻舞飞扬和他老妈的对话；当不会唱的时候，轻舞飞扬就会用“呱呱呱”代替，紧接着XC听众们就会跟着发“呱呱呱”。当时的xq公屏，被大量的“呱呱呱”、“咕咕咕”、“嘎嘎嘎”消息霸屏了。
 
-&emsp;这场XC演唱会是大动乱时代不可多得的和平时光，它见证了此时代的终结。
+&emsp;这场XC演唱会是大动乱时代不可多得的和平时光，它见证了此时代的终结。（ee版本历史书中，大动乱时代之后有冷战时代的概念，您目前阅读的版本未加入此概念。）
 
 &emsp;值得一提的是，MelonFish曾计划在2022年暑假前推出语音通话功能~~吃13和ee的瓜~~，可这个计划由于服务器的限制一拖再拖，直到大动乱时代前还没完成，可能再也没有机会实现了。
 
