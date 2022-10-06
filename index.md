@@ -1257,7 +1257,7 @@ bw7Gkq Mr_Zhang
 
 &emsp;Mr\_Zhang让HC怀疑他的人去翻GitHub的源代码。可Maggie和ee却反驳说`不能判断Mr\_Zhang运行的就是GitHub上的源码`，在Mr\_Zhang开ftp展示他运行的代码后，这两人纷纷被打脸。期间，ee与4n0n4me发生摩擦，三句话里有两句都在骂4n0n4me是`猪队友`。
 
-&emsp;Mr\_Zhang对于在大乱动时代HC用户们认为他写的任何东西都不安全这回事非常生气，便无差别怒骂在HC的所有前XC用户，以`HC的用户都不安全`这一理由将几乎全部前XC用户从XC封禁，只有MuRongPig和dpg等少数用户幸存。就连一开始认为`以Mr\_Zhang的人品不会做出这种走后门的不道德举动`、以自身协管地位为Mr\_Zhang做担保的用户zzChumo都被不被他信任。
+&emsp;Mr\_Zhang对于在大动乱时代HC用户们认为他写的任何东西都不安全这回事非常生气，便无差别怒骂在HC的所有前XC用户，以`HC的用户都不安全`这一理由将几乎全部前XC用户从XC封禁，只有MuRongPig和dpg等少数用户幸存。就连一开始认为`以Mr\_Zhang的人品不会做出这种走后门的不道德举动`、以自身协管地位为Mr\_Zhang做担保的用户zzChumo都被不被他信任。
 
 ```
 Mr_Zhang
