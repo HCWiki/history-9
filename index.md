@@ -1283,7 +1283,7 @@ Mr_Zhang
     - [HCworks111](https://note.ms/HCworks111)（by.tctd&ee）
 
  - detele事件
-    - [HC百科 by.zzChumo&13](https://www.zzchat.cf/wiki/notice.html)
+    - [HC百科](https://www.zzchat.cf/wiki/notice.html)（by.zzChumo&13）
 
  - HC权限纠纷
     - [lounge独立宣言](http://xw.hhua.shop/lounge.html)（by.xuanwei）
