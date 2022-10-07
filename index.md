@@ -1293,7 +1293,7 @@ Mr_Zhang
     - [《吃掉坏初墨》](https://game.osww.cn/eat-chumo)（by.ee）
     - [《鱼的报复计划》PC版](https://home.osww.cn/?p=96)（by.ee&Qwer）
     - [《鱼的报复计划》web版](https://game.osww.cn/revenge)（by.Bird&ee&Qwer）
-    - [《XC模拟.器》web版](https://game.osww.cn/xc)（by.Maggie&4n0n4me）
+    - [《XC模拟器》web版](https://game.osww.cn/xc)（by.Maggie&4n0n4me）
     - [《麻鸡的恐怖冒险》](https://game.osww.cn/maggie)（by.Bird）
     - [《麻鸡的拯救计划》](https://game.osww.cn/grrd)（by.ee&zzChumo）
     - [《ee的奇妙冒险》](https://www.zzchat.cf/GAF/Game.html)（by.zzChumo）
