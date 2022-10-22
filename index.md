@@ -1294,14 +1294,14 @@ jga1nc  tcg
 用一个词代称：改朝换代
 ```
 
-当时在场的4n0n4me言语含糊不清，但并没有拒绝TCG，甚至鼓励TCG。
+&emsp;当时在场的4n0n4me言语含糊不清，但并没有拒绝TCG，甚至鼓励TCG。
 
 ```
 /9Br2y  4n0n4me________________ 
 just do it！历史的车轮滚滚向前。
 ```
 
-在场的Maggie本想让大家一起玩游戏，但是却没有人响应他。Maggie最终只好响应TCG的计划，还成为突然执行政变的罪人。TCG将快速执行政变比作《三体》中的黑暗战役，需要果断快速地背叛其它人才能顺利进行。
+&emsp;在场的Maggie本想让大家一起玩游戏，但是却没有人响应他。Maggie最终只好响应TCG的计划，还成为突然执行政变的罪人。TCG将快速执行政变比作《三体》中的黑暗战役，需要果断快速地背叛其它人才能顺利进行。
 
 ```
 jga1nc  tcg 
@@ -1314,7 +1314,7 @@ jga1nc  tcg
 ¯\_(ツ)_/¯ 那我当罪人咯
 ```
 
-撤除协管权有可能迅速执行，也有可能开诚布公、经过讨论，甚至请来局外人监督防止产生变故再执行。Maggie向4n0n4me询问是否确定采用快速执行的方案，但4n0n4me同意了。
+&emsp;撤除协管权有可能迅速执行，也有可能开诚布公、经过讨论，甚至请来局外人监督防止产生变故再执行。Maggie向4n0n4me询问是否确定采用快速执行的方案，但4n0n4me同意了。
 
 ```
 2ZQ3+0  Maggie_Ubuntu 
@@ -1341,7 +1341,7 @@ i will be the criminal（（也就是）我将充当罪人）
 i confirm
 ```
 
-Light加入后，非常疑惑，于是使用小号去除了Maggie的权限，质问人们为什么要胡作非为、随意撤除不在场的人的权限。
+L&emsp;ight加入后，非常疑惑，于是使用小号去除了Maggie的权限，质问人们为什么要胡作非为、随意撤除不在场的人的权限。
 
 ```
 NqByTq  Dream 
@@ -1435,7 +1435,7 @@ jga1nc  tcg
 挺好
 ```
 
-Light认为这是XC方针对Light的计划得逞，非常反对，但因为无法反抗在场的人，只能跟随，还决定撤除所有人。
+&emsp;Light认为这是XC方针对Light的计划得逞，非常反对，但因为无法反抗在场的人，只能跟随，还决定撤除所有人。
 
 ```
 zoxgiO  Maggie_Ubuntu 
@@ -1454,7 +1454,7 @@ zoxgiO  Maggie_Ubuntu
 那我开始了
 ```
 
-于是Maggie撤除了所有协管；尽管TCG警告Maggie不要这么做，Maggie还是将自己也撤除了。
+&emsp;于是Maggie撤除了所有协管；尽管TCG警告Maggie不要这么做，Maggie还是将自己也撤除了。
 
 ```
 zoxgiO  MAGGIE 
@@ -1470,7 +1470,7 @@ zoxgiO  MAGGIE
 .m remove zoxgiO
 ```
 
-这并不是TCG期望的结果，整件事如同一场闹剧。
+&emsp;这并不是TCG期望的结果，整件事如同一场闹剧。
 
 ```
 jga1nc  tcg 
@@ -1483,9 +1483,9 @@ jga1nc  tcg
 核武丢了
 ```
 
-第二天，Maggie向mod申请了重新添加一些协管。回到yc的用户们非常愤怒，对4n0n4me和当时不在Maggie的等用户表示非常不满。此时，mbot的作者AnnikaV9来到yc，询问Maggie的识别码，但eman表示，他们并不确定是否要添加Maggie。AnnikaV9于是只添加了他信得过的dpg制作的AfK_Bot的识别码，说让dpg添加剩下的协管。
+&emsp;第二天，Maggie向mod申请了重新添加一些协管。回到yc的用户们非常愤怒，对4n0n4me和当时不在Maggie的等用户表示非常不满。此时，mbot的作者AnnikaV9来到yc，询问Maggie的识别码，但eman表示，他们并不确定是否要添加Maggie。AnnikaV9于是只添加了他信得过的dpg制作的AfK_Bot的识别码，说让dpg添加剩下的协管。
 
-在这件事发生后的10月21日，HC出现了数小时的崩溃，重新上线后mbot并没有被部署。
+&emsp;在这件事发生后的10月21日，HC出现了数小时的崩溃，重新上线后mbot并没有被部署。
 
 ## 附录
 &emsp;有关本书中出现的需要补充的特定用语等。
