@@ -1341,7 +1341,7 @@ i will be the criminal（（也就是）我将充当罪人）
 i confirm
 ```
 
-L&emsp;ight加入后，非常疑惑，于是使用小号去除了Maggie的权限，质问人们为什么要胡作非为、随意撤除不在场的人的权限。
+&emsp;Light加入后，非常疑惑，于是使用小号去除了Maggie的权限，质问人们为什么要胡作非为、随意撤除不在场的人的权限。
 
 ```
 NqByTq  Dream 
