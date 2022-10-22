@@ -1267,14 +1267,224 @@ Mr_Zhang
 ### 沃玛频道事件
 &emsp;知名up主沃玛曾经介绍过HC，在视频中她进入了`?kt1j8rpc`这个随机频道，这个频道也因此被许多沃玛的观众访问。在史前时代，这个频道曾经很活跃，但如今已经较为冷清。
 
-&emsp;大动乱后，XC有些缺少用户，MelonFish急需引流。他在沃玛的频道`?kt1j8rpc`设置机器人，宣称`这里现在已经没人了`，邀请加入的用户前往XC。一些yc的用户发现这点后十分不满，但因为在`?kt1j8rpc`无法使用权限，无计可施。4n0n4me向当时在场的yc用户dpg提出反制MelonFish的机器人的请求，于是dpg提出了使用LaTeX武器阻止用户看见MelonFish的机器人的推广消息。部署该机器人后……
+&emsp;大动乱后，XC有些缺少用户，MelonFish急需引流。他在沃玛的频道`?kt1j8rpc`设置机器人，宣称`这里现在已经没人了`，邀请加入的用户前往XC。8月末，一些yc的用户发现这点后十分不满，但因为在`?kt1j8rpc`无法使用权限，无计可施。4n0n4me向当时在场的yc用户dpg提出反制MelonFish的机器人的请求，于是dpg提出了使用LaTeX武器阻止用户看见MelonFish的机器人的推广消息。还有人提出轰炸`?kt1j8rpc`，塞满MelonFish的日志。MelonFish发现后上线，被4n0n4me等用户攻击，双方对线。一时间，`?kt1j8rpc`十分混乱。mod发现后，对`?kt1j8rpc`进行了锁房。
 
-&emsp;这一节就结束了。因为这一节还没写完，我就遇到了一件大事，我得先写这件大事的内容。
+&emsp;10月7日，这样的事件又重演了。人们发现MelonFish又在`?kt1j8rpc`部署机器人，纷纷前去反对或吃瓜。4n0n4me过激地批评MelonFish的行为不道德，还要求在场的人都反对MelonFish。MelonFish于是指责4n0n4me引战。其它的用户感到迷惑，Arcadia等用户还声援MelonFish引流罪不至此。后来用户纷纷开始自己聊天或者退出频道。
 
 ### YC政变
-&emsp;由于这里的YC有政治上的含义，和YC帝国类似，YC大写。
+&emsp;由于和YC帝国类似，具有“政治”上的意义，本节的YC有部分大写。
 
-&emsp;2022/10/16，YC发生政变，撤除所有协管。请YC用户稍安勿躁，感受新时代的气息。
+&emsp;2022/10/16，TCG来到yc，宣称希望改变yc，阻止矛盾。他选择了使yc“改朝换代”，遏制协管权力下放以阻止yc与XC之间的矛盾。
+
+```
+jga1nc  tcg 
+我想到了另一个方案
+
+jga1nc  tcg 
+既然矛盾来自几个个人
+
+jga1nc  tcg 
+那么，直接换掉、驱逐这几人
+
+jga1nc  tcg 
+不就好了
+
+jga1nc  tcg 
+用一个词代称：改朝换代
+```
+
+当时在场的4n0n4me言语含糊不清，但并没有拒绝TCG，甚至鼓励TCG。
+
+```
+/9Br2y  4n0n4me________________ 
+just do it！历史的车轮滚滚向前。
+```
+
+在场的Maggie本想让大家一起玩游戏，但是却没有人响应他。Maggie最终只好响应TCG的计划，还成为突然执行政变的罪人。TCG将快速执行政变比作《三体》中的黑暗战役，需要果断快速地背叛其它人才能顺利进行。
+
+```
+jga1nc  tcg 
+
+>其实我目前开始还没确定我们具体的到底在干什么（引用Maggie的话）
+
+这样的，因为xc与yc的所有矛盾就是因为这个协管
+
+2ZQ3+0  Maggie_Ubuntu 
+¯\_(ツ)_/¯ 那我当罪人咯
+```
+
+撤除协管权有可能迅速执行，也有可能开诚布公、经过讨论，甚至请来局外人监督防止产生变故再执行。Maggie向4n0n4me询问是否确定采用快速执行的方案，但4n0n4me同意了。
+
+```
+2ZQ3+0  Maggie_Ubuntu 
+@4n0n4me________________ u know（你知道）
+
+2ZQ3+0  Maggie_Ubuntu 
+what is this way（（我说的）这个方案是什么）
+
+2ZQ3+0  Maggie_Ubuntu 
+the bad way（那个坏方案）
+
+2ZQ3+0  Maggie_Ubuntu 
+i will be the criminal（（也就是）我将充当罪人）
+```
+
+```
+/9Br2y  4n0n4me________________ 
+有一说一我不希望我睡觉了还在这样，那我就没法吃瓜了
+
+/9Br2y  4n0n4me________________ 
+所以
+
+/9Br2y  4n0n4me________________ 
+i confirm
+```
+
+Light加入后，非常疑惑，于是使用小号去除了Maggie的权限，质问人们为什么要胡作非为、随意撤除不在场的人的权限。
+
+```
+NqByTq  Dream 
+.m remove 2ZQ3+0
+
+⭐ hACkeR  mbot 
+@Dream removed '2ZQ3+0' from the operator list
+
+2ZQ3+0  Maggie_Ubuntu 
+@4n0n4me________________
+
+jga1nc  tcg 
+wow
+
+NqByTq  Dream （Light的小号）
+先说发生了什么
+
+/9Br2y  4n0n4me________________ 
+局外人：我在哪啊我不到啊
+
+2ZQ3+0  Maggie_Ubuntu 
+remove
+
+jga1nc  tcg 
+这位是？
+
+2ZQ3+0  Maggie_Ubuntu 
+now
+
+2ZQ3+0  Maggie_Ubuntu 
+蓝色空间（《三体》黑暗战役中偷袭其它人类逃亡者的星舰）出现了?
+
+/9Br2y  4n0n4me________________ 
+蓝色空间开始了
+
+2ZQ3+0  Maggie_Ubuntu 
+.m remove NqByTq
+
+⭐ hACkeR  mbot 
+@Maggie_Ubuntu error: permission denied
+
+jga1nc  tcg 
+.m Nq
+
+⭐ hACkeR  mbot 
+@tcg error: permission denied
+
+2ZQ3+0  Maggie_Ubuntu 
+@4n0n4me________________
+
+2ZQ3+0  Maggie_Ubuntu 
+NOW
+
+2ZQ3+0  Maggie_Ubuntu 
+.m remove NqByTq
+
+⭐ hACkeR  mbot 
+@Maggie_Ubuntu error: permission denied
+
+2ZQ3+0  Maggie_Ubuntu 
+NOW
+
+a/Jz/a  lightmother 
+？
+
+jga1nc  tcg 
+.m remove NqByTq
+
+jga1nc  tcg 
+乐
+
+jga1nc  tcg 
+出现了
+
+a/Jz/a  lightmother 
+为什么把管理权撤了
+
+a/Jz/a  lightmother 
+这不是一个明智的选择
+
+2ZQ3+0  Maggie_Ubuntu 
+i am the criminal
+
+jga1nc  tcg 
+乐
+
+a/Jz/a  lightmother 
+你甚至没有等dpg到场
+
+jga1nc  tcg 
+挺好
+```
+
+Light认为这是XC方针对Light的计划得逞，非常反对，但因为无法反抗在场的人，只能跟随，还决定撤除所有人。
+
+```
+zoxgiO  Maggie_Ubuntu 
+除了mods的每个人？
+
+zoxgiO  Maggie_Ubuntu 
+包括 afkbot???
+
+NqByTq  lightmother 
+？
+
+NqByTq  lightmother 
+不然呢
+
+zoxgiO  Maggie_Ubuntu 
+那我开始了
+```
+
+于是Maggie撤除了所有协管；尽管TCG警告Maggie不要这么做，Maggie还是将自己也撤除了。
+
+```
+zoxgiO  MAGGIE 
+.m listops
+
+⭐ hACkeR  mbot 
+@MAGGIE currently registered operators: ttttoe, rrrRRR, pwnuUa, zoxgiO
+
+* 
+ciA left
+
+zoxgiO  MAGGIE 
+.m remove zoxgiO
+```
+
+这并不是TCG期望的结果，整件事如同一场闹剧。
+
+```
+jga1nc  tcg 
+乐
+
+jga1nc  tcg 
+好了
+
+jga1nc  tcg 
+核武丢了
+```
+
+第二天，Maggie向mod申请了重新添加一些协管。回到yc的用户们非常愤怒，对4n0n4me和当时不在Maggie的等用户表示非常不满。此时，mbot的作者AnnikaV9来到yc，询问Maggie的识别码，但eman表示，他们并不确定是否要添加Maggie。AnnikaV9于是只添加了他信得过的dpg制作的AfK_Bot的识别码，说让dpg添加剩下的协管。
+
+在这件事发生后的10月21日，HC出现了数小时的崩溃，重新上线后mbot并没有被部署。
 
 ## 附录
 &emsp;有关本书中出现的需要补充的特定用语等。
