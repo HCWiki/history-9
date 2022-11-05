@@ -1483,7 +1483,7 @@ jga1nc  tcg
 核武丢了
 ```
 
-&emsp;第二天，Maggie向mod申请了重新添加一些协管。回到yc的用户们非常愤怒，对4n0n4me和当时不在Maggie的等用户表示非常不满。此时，mbot的作者AnnikaV9来到yc，询问Maggie的识别码，但eman表示，他们并不确定是否要添加Maggie。AnnikaV9于是只添加了他信得过的dpg制作的AfK_Bot的识别码，说让dpg添加剩下的协管。
+&emsp;第二天，Maggie向mod申请了重新添加一些协管。回到yc的用户们非常愤怒，对4n0n4me和当时不在的Maggie等用户表示非常不满。此时，mbot的作者AnnikaV9来到yc，询问Maggie的识别码，但eman表示，他们并不确定是否要添加Maggie。AnnikaV9于是只添加了他信得过的dpg制作的AfK_Bot的识别码，说让dpg添加剩下的协管。
 
 &emsp;在这件事发生后的10月21日，HC出现了数小时的崩溃，重新上线后mbot并没有被部署。
 
