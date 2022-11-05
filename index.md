@@ -4,66 +4,66 @@
 
 ## 发布地址
 注：发布地址可能出现不可用的情况。
- - [ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)（浅色模式，字数统计）
- - [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
- - [DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)（历史版本）
- - [4n0n4me的GitHub Page](https://hcwiki.github.io/history/)（较为稳定的版本）
+- [ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)（浅色模式，字数统计）
+- [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
+- [DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)（历史版本）
+- [4n0n4me的GitHub Page](https://hcwiki.github.io/history/)（较为稳定的版本）
  
 过去的发布地址：
- - ~~[Maggie的知识库](https://docs.thz.cool/#/chatroom-history-book)~~（已下线）
- - ~~[Maggie的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)~~（因服务器过期，已下线）
- - ~~[Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)~~（已删除）
+- ~~[Maggie的知识库](https://docs.thz.cool/#/chatroom-history-book)~~（已下线）
+- ~~[Maggie的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)~~（因服务器过期，已下线）
+- ~~[Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)~~（已删除）
 
 
 ## 友情站点
- - [zzChumo的HC百科](https://www.zzchat.cf/wiki/)
- - [4n0n4me的HC指南](https://hcwiki.github.io/)
- - [JSPVZ的历史书](https://jspvz.fandom.com/zh/wiki/社区/事件)
- - [DOLLARS的历史书](https://drrr.wiki/事件)
+- [zzChumo的HC百科](https://www.zzchat.cf/wiki/)
+- [4n0n4me的HC指南](https://hcwiki.github.io/)
+- [JSPVZ的历史书](https://jspvz.fandom.com/zh/wiki/社区/事件)
+- [DOLLARS的历史书](https://drrr.wiki/事件)
 
 
 ## 编辑团队
- - [4n0n4me](https://www.pillows.net.eu.org/)（主编）
- - [ee](https://paperee.tk)（副主编，修改格式，整理目录）
- - [Maggie](https://thz.cool/)（项目提出者，修改格式，整理目录）
- - [zzChumo](https://www.zzchat.cf/)（润色，内容补充）
+- [4n0n4me](https://www.pillows.net.eu.org/)（主编）
+- [ee](https://paperee.tk)（副主编，修改格式，整理目录）
+- [Maggie](https://thz.cool/)（项目提出者，修改格式，整理目录）
+- [zzChumo](https://www.zzchat.cf/)（润色，内容补充）
 
 
 ## 特别感谢
- - 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、[B站的J](https://jspvz.fandom.com/zh/wiki/社区常驻玩家)、[snose](https://jspvz.fandom.com/zh/wiki/社区常驻玩家)、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
+- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、[B站的J](https://jspvz.fandom.com/zh/wiki/社区常驻玩家)、[snose](https://jspvz.fandom.com/zh/wiki/社区常驻玩家)、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
 
 
 ## 更新内容
- - 更新了YC政变、沃玛频道事件。（9.6）
- - 跟进[ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)版本，修订了许多内容。（9.5）
- - 更新了小雪事件、NCX客户端；修改了部分用语。（9.4）
+- 更新了YC政变、沃玛频道事件。（9.6）
+- 跟进[ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)版本，修订了许多内容。（9.5）
+- 更新了小雪事件、NCX客户端；修改了部分用语。（9.4）
 
 
 ## 致读者（也致各位编写者）
- - 除QiuLingYan及其在不同时期的昵称外（不同昵称的变更反映了其改正的过程），用户昵称均使用最常见昵称。
- - 除星聊（星弈微聊）外，聊天室名均使用大写字母缩写。
- - 除?bot、?test、?chinese、?china、YC帝国外，频道名均使用小写字母缩写。
- - 文章中出现的所有缩写详见附录[常用语](#常用语)。
- - 这是一本涵盖解说、绯闻及网络攻击的历史书。
- - 若发现任何语病、错字或事实错误，欢迎通过在[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)或[HCWiki的GitHub仓库](https://github.com/HCWiki/history)提issue等方式，或在聊天室中联系编辑团队。
+- 除QiuLingYan及其在不同时期的昵称外（不同昵称的变更反映了其改正的过程），用户昵称均使用最常见昵称。
+- 除星聊（星弈微聊）外，聊天室名均使用大写字母缩写。
+- 除?bot、?test、?chinese、?china、YC帝国外，频道名均使用小写字母缩写。
+- 文章中出现的所有缩写详见附录[常用语](#常用语)。
+- 这是一本涵盖解说、绯闻及网络攻击的历史书。
+- 若发现任何语病、错字或事实错误，欢迎通过在[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)或[HCWiki的GitHub仓库](https://github.com/HCWiki/history)提issue等方式，或在聊天室中联系编辑团队。
 
 
 ## 编年史
- - [史前时代](#一史前时代)
-    - 早期 2015~2021/8
-    - 晚期 2021/8~2021/10
+- [史前时代](#一史前时代)
+   - 早期 2015~2021/8
+   - 晚期 2021/8~2021/10
 
- - [帝国时代](#二帝国时代)
-    - 2021/10~2022/1
+- [帝国时代](#二帝国时代)
+   - 2021/10~2022/1
 
- - [智械时代](#三智械时代)
-    - 2022/1~2022/5
+- [智械时代](#三智械时代)
+   - 2022/1~2022/5
 
- - [三国鼎立](#四三国鼎立)
-    - 2022/3~2022/8
+- [三国鼎立](#四三国鼎立)
+   - 2022/3~2022/8
 
- - [大动乱时代](#五大动乱时代)
-    - 2022/8~Today
+- [大动乱时代](#五大动乱时代)
+   - 2022/8~Today
 
 
 ## 一、史前时代
@@ -1492,121 +1492,121 @@ jga1nc  tcg
 
 
 ### 部分引用
- - HC聊天室
-    - [HC指令](https://tieba.baidu.com/p/6833224084)（by.Lithium&666）
+- HC聊天室
+   - [HC指令](https://tieba.baidu.com/p/6833224084)（by.Lithium&666）
 
- - HC早期梗
-    - [Why did u call urself?](https://www.zzchat.cf/wiki/hh.html)（by.zzChumo）
-    - [jill的glue](https://www.zzchat.cf/wiki/glue.html)（by.zzChumo&ee）
+- HC早期梗
+   - [Why did u call urself?](https://www.zzchat.cf/wiki/hh.html)（by.zzChumo）
+   - [jill的glue](https://www.zzchat.cf/wiki/glue.html)（by.zzChumo&ee）
 
- - 机器人学
-    - [机器人](https://hcwiki.github.io/#机器人)（by.4n0n4me）
+- 机器人学
+   - [机器人](https://hcwiki.github.io/#机器人)（by.4n0n4me）
 
- - 文艺创作
-    - [HCworks111](https://note.ms/HCworks111)（by.tctd&ee）
+- 文艺创作
+   - [HCworks111](https://note.ms/HCworks111)（by.tctd&ee）
 
- - detele事件
-    - [HC百科](https://www.zzchat.cf/wiki/notice.html)（by.zzChumo&13）
+- detele事件
+   - [HC百科](https://www.zzchat.cf/wiki/notice.html)（by.zzChumo&13）
 
- - HC权限纠纷
-    - [lounge独立宣言](http://xw.hhua.shop/lounge.html)（by.xuanwei）
+- HC权限纠纷
+   - [lounge独立宣言](http://xw.hhua.shop/lounge.html)（by.xuanwei）
 
- - 游戏热潮
-    - [《44FF00》](https://drive.noire.cc/s/lNdOu1?path=/myGame)（by.ee）
-    - [《吃掉坏初墨》](https://game.osww.cn/eat-chumo)（by.ee）
-    - [《鱼的报复计划》PC版](https://home.osww.cn/?p=96)（by.ee&Qwer）
-    - [《鱼的报复计划》web版](https://game.osww.cn/revenge)（by.Bird&ee&Qwer）
-    - [《XC模拟器》web版](https://game.osww.cn/xc)（by.Maggie&4n0n4me）
-    - [《麻鸡的恐怖冒险》](https://game.osww.cn/maggie)（by.Bird）
-    - [《麻鸡的拯救计划》](https://game.osww.cn/grrd)（by.ee&zzChumo）
-    - [《ee的奇妙冒险》](https://www.zzchat.cf/GAF/Game.html)（by.zzChumo）
+- 游戏热潮
+   - [《44FF00》](https://drive.noire.cc/s/lNdOu1?path=/myGame)（by.ee）
+   - [《吃掉坏初墨》](https://game.osww.cn/eat-chumo)（by.ee）
+   - [《鱼的报复计划》PC版](https://home.osww.cn/?p=96)（by.ee&Qwer）
+   - [《鱼的报复计划》web版](https://game.osww.cn/revenge)（by.Bird&ee&Qwer）
+   - [《XC模拟器》web版](https://game.osww.cn/xc)（by.Maggie&4n0n4me）
+   - [《麻鸡的恐怖冒险》](https://game.osww.cn/maggie)（by.Bird）
+   - [《麻鸡的拯救计划》](https://game.osww.cn/grrd)（by.ee&zzChumo）
+   - [《ee的奇妙冒险》](https://www.zzchat.cf/GAF/Game.html)（by.zzChumo）
 
- - 卢本伟事件
-    - [卢本伟罪行](https://file.node2.thz.cool/fileshare/.upload/4c784be700cfe43.log)（by.Mr\_Zhang）
-    - [反击高能部分](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-cb051ef9-0256-42af-80d2-f2dc9e295a34/2f8f3653-db43-4736-8962-aee33d6289c2.txt)（by.MelonFish）
-    - [反击全过程](https://paperee.tk/2022.07.16_your-channel.txt)（by.ee）
-    - [聊天室反引用刷屏](https://greasyfork.org/zh-CN/scripts/448444-聊天室反引用刷屏)（by.4n0n4me）
-    - [聊天室危险消息屏蔽](https://greasyfork.org/zh-CN/scripts/449697-聊天室危险消息屏蔽)（by.4n0n4me）
+- 卢本伟事件
+   - [卢本伟罪行](https://file.node2.thz.cool/fileshare/.upload/4c784be700cfe43.log)（by.Mr\_Zhang）
+   - [反击高能部分](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-cb051ef9-0256-42af-80d2-f2dc9e295a34/2f8f3653-db43-4736-8962-aee33d6289c2.txt)（by.MelonFish）
+   - [反击全过程](https://paperee.tk/2022.07.16_your-channel.txt)（by.ee）
+   - [聊天室反引用刷屏](https://greasyfork.org/zh-CN/scripts/448444-聊天室反引用刷屏)（by.4n0n4me）
+   - [聊天室危险消息屏蔽](https://greasyfork.org/zh-CN/scripts/449697-聊天室危险消息屏蔽)（by.4n0n4me）
 
- - 人数巅峰
-    - [人数巅峰.png](https://book.paperee.guru/chatroom-history-book/人数巅峰.png)（by.ee）
+- 人数巅峰
+   - [人数巅峰.png](https://book.paperee.guru/chatroom-history-book/人数巅峰.png)（by.ee）
 
- - 识别码热潮
-    - [不要买付费识别码的五个理由](https://hcwiki.github.io/#不要买付费识别码的五个理由)（by.4n0n4me）
+- 识别码热潮
+   - [不要买付费识别码的五个理由](https://hcwiki.github.io/#不要买付费识别码的五个理由)（by.4n0n4me）
 
- - USBot事件
-    - [USBot事件.png](https://book.paperee.guru/chatroom-history-book/USBot事件.png)（by.ee）
+- USBot事件
+   - [USBot事件.png](https://book.paperee.guru/chatroom-history-book/USBot事件.png)（by.ee）
 
- - JSPVZ事件
-    - [声讨XChat](https://www.bilibili.com/video/BV1Te4y1f7zg/)（by.B站的J）
-    - [XChat事件](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月16日至2022年8月19日-XChat（一个基于hack.chat的网络聊天室）事件)（by.B站的J）
-    - [XChat冲突二](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月26日-XChat冲突二)（by.B站的J）
-    - [12323434.png](https://static.wikia.nocookie.net/jspvz/images/6/69/12323434.png/revision/latest?cb=20220817015014&path-prefix=zh)（by.B站的J）
+- JSPVZ事件
+   - [声讨XChat](https://www.bilibili.com/video/BV1Te4y1f7zg/)（by.B站的J）
+   - [XChat事件](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月16日至2022年8月19日-XChat（一个基于hack.chat的网络聊天室）事件)（by.B站的J）
+   - [XChat冲突二](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月26日-XChat冲突二)（by.B站的J）
+   - [12323434.png](https://static.wikia.nocookie.net/jspvz/images/6/69/12323434.png/revision/latest?cb=20220817015014&path-prefix=zh)（by.B站的J）
 
 
 ### 常用语
- - 聊天室相关
-    - HC：[hack.chat](https://hack.chat/)，“黑客”聊天室。
-    - CC：[CrosstChat](https://crosst.chat/)，十字街。
-    - XC：[XChat](https://xq.kzw.ink/)，圈聊。
-    - TC：[TanChat](https://chat.thz.cool/)。
-    - SC：[SprinkleChat](https://chat.spr233.eu.org/)，冬日小屋。
-    - ZC：[zzChat](https://zzchat.cf/)，智聊（~~全名智障聊天室~~）。
-    - LC：[Light's hack.chat](http://43.142.118.149:6059/)，Light的聊天室，使用Python后端。
-    - ZHC：[ZhangChat](https://gitee.com/MrZhang365/zhangchat)，小张聊天室。
-    - xq: XC的**xq**102210频道，也指线圈。
-    - lo：HC的**lo**unge频道，多为国人。
-    - yc：HC的**y**our-**c**hannel频道，多为国人。
-    - ycl：HC的**y**our-**c**hannel**l**频道。
-    - pro：HC的**pro**gramming频道，外国人的频道。
+- 聊天室相关
+   - HC：[hack.chat](https://hack.chat/)，“黑客”聊天室。
+   - CC：[CrosstChat](https://crosst.chat/)，十字街。
+   - XC：[XChat](https://xq.kzw.ink/)，圈聊。
+   - TC：[TanChat](https://chat.thz.cool/)。
+   - SC：[SprinkleChat](https://chat.spr233.eu.org/)，冬日小屋。
+   - ZC：[zzChat](https://zzchat.cf/)，智聊（~~全名智障聊天室~~）。
+   - LC：[Light's hack.chat](http://43.142.118.149:6059/)，Light的聊天室，使用Python后端。
+   - ZHC：[ZhangChat](https://gitee.com/MrZhang365/zhangchat)，小张聊天室。
+   - xq: XC的**xq**102210频道，也指线圈。
+   - lo：HC的**lo**unge频道，多为国人。
+   - yc：HC的**y**our-**c**hannel频道，多为国人。
+   - ycl：HC的**y**our-**c**hannel**l**频道。
+   - pro：HC的**pro**gramming频道，外国人的频道。
 
- - 聊天室术语
-    - ban：完全封禁用户IP地址。
-    - kick：踢出用户到另一个房间。
-    - chatroom：聊天室。
-    - channel：频道，也可称为房间。
-    - hash：哈希，用户的“身份证”。 
-    - authtrip：受认证的识别码，用于跳过锁房限制及验证码。
+- 聊天室术语
+   - ban：完全封禁用户IP地址。
+   - kick：踢出用户到另一个房间。
+   - chatroom：聊天室。
+   - channel：频道，也可称为房间。
+   - hash：哈希，用户的“身份证”。 
+   - authtrip：受认证的识别码，用于跳过锁房限制及验证码。
 
- - 关联站点
-    - [JSPVZ](http://lonelystar.org/plantsvszombies.htm)：一个由“囧丫乙”创造的复刻植物大战僵尸的网站，拥有一个小型社区。
-    - [DOLLARS](https://drrr.com/)：又称drrr，无头骑士同人匿名聊天网站。
+- 关联站点
+   - [JSPVZ](http://lonelystar.org/plantsvszombies.htm)：一个由“囧丫乙”创造的复刻植物大战僵尸的网站，拥有一个小型社区。
+   - [DOLLARS](https://drrr.com/)：又称drrr，无头骑士同人匿名聊天网站。
 
- - 用户名（记载的不一定是离谱用户）
-    - bf：一个臭名远扬的用户。
-    - lbw：**l**u**b**en**w**ei，卢本伟（**这里不是指的游戏主播**），一个无可救药的罪人。
-    - yxy：**y**u**x**iao**y**e，於小夜，一个道德败坏的小学生。
-    - s5x：又名sex，一个在JSPVZ经常钓鱼的玩家，曾经侮辱过XC。
-    - mrz：小写指**M**u**R**ong**PIG**，慕容猪。
-    - MRZ：大写指**Mr**\_**Z**hang，小张。
+- 用户名（记载的不一定是离谱用户）
+   - bf：一个臭名远扬的用户。
+   - lbw：**l**u**b**en**w**ei，卢本伟（**这里不是指的游戏主播**），一个无可救药的罪人。
+   - yxy：**y**u**x**iao**y**e，於小夜，一个道德败坏的小学生。
+   - s5x：又名sex，一个在JSPVZ经常钓鱼的玩家，曾经侮辱过XC。
+   - mrz：小写指**M**u**R**ong**PIG**，慕容猪。
+   - MRZ：大写指**Mr**\_**Z**hang，小张。
 
- - 机器人
-    - zh：可能是机器人**Z**hang**H**elper的缩写，也可译为“中文”。
-    - ab：**AB**ot，Hack4r的机器人。
-    - hb：**HB**ot，ABot的前身。
-    - ob：**OB**ot，Outlier的机器人，也有用户名为“OBot”。
-    - zb：z**zb**ot，zzChumo根据Foolishbird制作。
-    - eb：e**eb**ot，ee根据Foolishbird制作。
-    - reb：**r**e**eb**ot，名为蓉儿的eebot，xuanwei根据eebot改写而成。
-    - usb：**USB**ot，MelonFish放置于yc扰乱环境的机器人，并非USB接口。
-    - bu_ug：？的前身，意指“BUG”。
-    - bo_od：MuRongPIG的机器人。
-    - do_ob：Henrize的机器人。
-    - dx_xb：Sprinkle的机器人。
+- 机器人
+   - zh：可能是机器人**Z**hang**H**elper的缩写，也可译为“中文”。
+   - ab：**AB**ot，Hack4r的机器人。
+   - hb：**HB**ot，ABot的前身。
+   - ob：**OB**ot，Outlier的机器人，也有用户名为“OBot”。
+   - zb：z**zb**ot，zzChumo根据Foolishbird制作。
+   - eb：e**eb**ot，ee根据Foolishbird制作。
+   - reb：**r**e**eb**ot，名为蓉儿的eebot，xuanwei根据eebot改写而成。
+   - usb：**USB**ot，MelonFish放置于yc扰乱环境的机器人，并非USB接口。
+   - bu_ug：？的前身，意指“BUG”。
+   - bo_od：MuRongPIG的机器人。
+   - do_ob：Henrize的机器人。
+   - dx_xb：Sprinkle的机器人。
 
- - 翻译与缩写
-    - afk：**A**way **f**rom **k**eyboard，离开键盘，挂机。
-    - ikr：**I** **k**now **r**ight，表知道。
-    - idk：**I** **d**on't **k**now，表不知道。
-    - lol：**L**augh **o**ut **l**oud，指大声笑。
-    - ind：**ind**eed，表示确实。
-    - ofc：**of** **c**ourse，表示当然。
-    - bot：Ro**bot**，机器人。
-    - cf：**C**loud**f**lare，全世界有名的互联网公司。
-    - r：**r**oll，一般是触发机器人随机数功能的命令，可以用于玩真心话等聊天室游戏。
+- 翻译与缩写
+   - afk：**A**way **f**rom **k**eyboard，离开键盘，挂机。
+   - ikr：**I** **k**now **r**ight，表知道。
+   - idk：**I** **d**on't **k**now，表不知道。
+   - lol：**L**augh **o**ut **l**oud，指大声笑。
+   - ind：**ind**eed，表示确实。
+   - ofc：**of** **c**ourse，表示当然。
+   - bot：Ro**bot**，机器人。
+   - cf：**C**loud**f**lare，全世界有名的互联网公司。
+   - r：**r**oll，一般是触发机器人随机数功能的命令，可以用于玩真心话等聊天室游戏。
 
- - 其他
-    - awa：三字母颜文字，类似emoji。
-    - awaland：阿瓦国，阿瓦兰。
-    - awaish：人造语言阿瓦语。
-    - emoji：现下流行的一种表情包。
+- 其他
+   - awa：三字母颜文字，类似emoji。
+   - awaland：阿瓦国，阿瓦兰。
+   - awaish：人造语言阿瓦语。
+   - emoji：现下流行的一种表情包。
