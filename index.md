@@ -1,5 +1,5 @@
 # 聊天室历史书
-**版本9.6，于2022年10月22日更新。**
+**版本9.7，于2022年10月22日更新。**
 
 
 ## 发布地址
@@ -34,6 +34,7 @@
 
 
 ## 更新内容
+- 更新了NovelAI热点。（9.7）
 - 更新了YC政变、沃玛频道事件。（9.6）
 - 跟进[ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)版本，修订了许多内容。（9.5）
 - 更新了小雪事件、NCX客户端；修改了部分用语。（9.4）
@@ -1486,6 +1487,16 @@ jga1nc  tcg
 &emsp;第二天，Maggie向mod申请了重新添加一些协管。回到yc的用户们非常愤怒，对4n0n4me和当时不在的Maggie等用户表示非常不满。此时，mbot的作者AnnikaV9来到yc，询问Maggie的识别码，但eman表示，他们并不确定是否要添加Maggie。AnnikaV9于是只添加了他信得过的dpg制作的AfK_Bot的识别码，说让dpg添加剩下的协管。
 
 &emsp;在这件事发生后的10月21日，HC出现了数小时的崩溃，重新上线后mbot并没有被部署。
+
+### NovelAI热点
+&emsp;在充满黑客体验的HC，“机器人”与“人工智能”一直来都是受用户关注的话题。近期AI绘画在互联网上的大火，彻底掀起了一波以NovelAI为主的AI绘画热潮。
+
+&emsp;2022年11月，常驻于pro的管理MinusGix，花20$破费给他的机器人ultra\_weeb接上了NovelAI的API，放在lby（HC的?lobby频道，大厅）。此后yc的用户们便没日没夜在lby白嫖ultra\_weeb，zzChumo、Maggie和ee利用AI生成了一堆奇奇怪怪的图。如zzChumo的ChumoChan和自己的人设、Maggie的MaggieChan、ee的eebot和自己的人设等。
+
+&emsp;好笑的是，zzChumo和Maggie还喜欢生成NSFW（Not Suitable For Work，不适合在大众目前阅读的内容，泛指色.情等）涩图。zzChumo总在NSFW的Tags中加入“10 years old”，被MinusGix指责说“她们不应该”。联系下美国对儿童色.情这类题材的敏感，这样的结果是十分合理的。
+
+&emsp;11月6日，ee将NovelAI画的大部分图片剪辑成了卡点视频，分别是[eebot特辑](http://paperee.guru/eebot.mp4)和[NovelAI特辑](https://paperee.guru/NovelAI.mp4)。后来，Maggie和4n0n4me先后用Python写了脚本来批量爬取生成的图片（~~多为涩图~~）
+
 
 ## 附录
 &emsp;有关本书中出现的需要补充的特定用语等。
