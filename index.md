@@ -1493,7 +1493,7 @@ jga1nc  tcg
 
 &emsp;2022年11月，常驻于pro的管理MinusGix，花20$破费给他的机器人ultra\_weeb接上了NovelAI的API，放在lby（HC的?lobby频道，大厅）。此后yc的用户们便没日没夜在lby白嫖ultra\_weeb，zzChumo、Maggie和ee利用AI生成了一堆奇奇怪怪的图。如zzChumo的ChumoChan和自己的人设、Maggie的MaggieChan、ee的eebot和自己的人设等。
 
-&emsp;好笑的是，zzChumo和Maggie还喜欢生成NSFW（Not Suitable For Work，不适合在大众目前阅读的内容，泛指色情等）涩图。zzChumo总在NSFW的Tags中加入“10 years old”，被MinusGix指责说“她们不应该”。联系下美国对儿童色情这类题材的敏感，这样的结果是十分合理的。
+&emsp;好笑的是，zzChumo和Maggie还喜欢生成NSFW（Not Suitable For Work，不适合在大众目前阅读的内容，泛指色情等）涩图。zzChumo总在NSFW的Tags中加入“10 years old”（经zzChumo反映，最早是Maggie在tags中加入了这个tag，zzChumo只是复制了Maggie的tags），被MinusGix指责说“她们不应该”。联系下美国对儿童色情这类题材的敏感，这样的结果是十分合理的。
 
 &emsp;11月6日，ee将NovelAI画的大部分图片剪辑成了卡点视频，分别是[eebot特辑](http://paperee.guru/eebot.mp4)和[NovelAI特辑](https://paperee.guru/NovelAI.mp4)。后来，Maggie和4n0n4me先后用Python写了脚本来批量爬取生成的图片（~~多为涩图~~）
 
