@@ -1,5 +1,5 @@
 # 聊天室历史书
-**版本9.7，于2022年10月22日更新。**
+**版本9.8，于2022年11月26日更新。**
 
 
 ## 发布地址
@@ -34,6 +34,7 @@
 
 
 ## 更新内容
+- 更新了改版客户端的内容。（9.8）
 - 更新了NovelAI热点。（9.7）
 - 更新了YC政变、沃玛频道事件。（9.6）
 - 跟进[ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)版本，修订了许多内容。（9.5）
@@ -1245,11 +1246,6 @@ bw7Gkq Mr_Zhang
 
 &emsp;由于Mr\_Zhang攻击了HC活跃频道中的两个：pro和yc，将这次事件称为Mr\_Zhang对HC大轰炸。
 
-
-### CrackedX客户端
-&emsp;CrackedX是zzChumo制作的XC客户端，主要功能为在加入聊天室时使用token，从而绕过验证码与ip检测。在大动乱时代初期，MelonFish就封禁了一些反对者的浏览器指纹（并移除了一些反对者的token），后来部分用户才被解封。因此，4n0n4me取CrackedX的名字，制作了NewCrackedX客户端（NCX）。NCX和CrackedX一样几乎没有被公开发布过。在大动乱时代之前，XC遭遇未知来源的轰炸时，轰炸机使用了虚假的浏览器指纹，使4n0n4me获得使用虚假指纹绕过封禁的灵感，篡改浏览器指纹也成为了NCX最主要的功能。由于4n0n4me多次利用虚假指纹前往XC发表不利言论，MelonFish决定封锁虚假指纹功能。他使用AES算法加密浏览器指纹，并对XC客户端的js代码进行了混淆，使第三方客户端无法提供正确加密的浏览器指纹，NCX的开发和利用也停止了。
-
-
 ### ZhangShell事件
 &emsp;2022年9月末（存疑），zzChumo看Mr\_Zhang的机器人ZhangHelper可以在线执行终端命令，请Mr\_Zhang做一个可以在线执行终端命令的机器人，作为GS Cloud（zzChumo的团队GS Team的云服务）的云电脑服务。ZhangHelper仅能返回命令执行的状态码，而不能返回终端输出的结果。Mr\_Zhang经过努力研究，制作出ZhangShell机器人，可以在线执行终端命令，还可以回复终端输出的内容。
 
@@ -1496,6 +1492,13 @@ jga1nc  tcg
 &emsp;好笑的是，zzChumo和Maggie还喜欢生成NSFW（Not Suitable For Work，不适合在大众目前阅读的内容，泛指色情等）涩图。zzChumo总在NSFW的Tags中加入“10 years old”（经zzChumo反映，最早是Maggie在tags中加入了这个tag，zzChumo只是复制了Maggie的tags），被MinusGix指责说“她们不应该”。联系下美国对儿童色情这类题材的敏感，这样的结果是十分合理的。
 
 &emsp;11月6日，ee将NovelAI画的大部分图片剪辑成了卡点视频，分别是[eebot特辑](http://paperee.guru/eebot.mp4)和[NovelAI特辑](https://paperee.guru/NovelAI.mp4)。后来，Maggie和4n0n4me先后用Python写了脚本来批量爬取生成的图片（~~多为涩图~~）
+
+### 改版客户端
+&emsp;CrackedX是zzChumo制作的XC客户端，主要功能为在加入聊天室时使用token，从而绕过验证码与ip检测。在大动乱时代初期，MelonFish就封禁了一些反对者的浏览器指纹（并移除了一些反对者的token），后来部分用户才被解封。因此，4n0n4me取CrackedX的名字，制作了NewCrackedX客户端（NCX）。NCX和CrackedX一样几乎没有被公开发布过。在大动乱时代之前，XC遭遇未知来源的轰炸时，轰炸机使用了虚假的浏览器指纹，使4n0n4me获得使用虚假指纹绕过封禁的灵感，篡改浏览器指纹也成为了NCX最主要的功能。由于4n0n4me多次利用虚假指纹前往XC发表不利言论，MelonFish决定封锁虚假指纹功能。他使用AES算法加密浏览器指纹，并对XC客户端的js代码进行了混淆，使第三方客户端无法提供正确加密的浏览器指纹，NCX的开发和利用也停止了。
+
+&emsp;HC的改版客户端基于原版HC客户端，经过一些程序上的修改而成。2022年10月，~~4n0n4me开始了制作改版客户端的潮流~~开始出现了一些改版客户端。
+
+&emsp;2022年10月16日，4n0n4me开始制作hc\+\+改版客户端，这是一个为了正常使用而制作的客户端，修复了原版客户端的一些bug，并且添加了一些特制的功能。10月30日，Mr\_Zhang推出了ZhangClient（小张客户端）。小张客户端修复了原版客户端的一些bug，并且添加了一些特制的功能。此外，小张客户端深度汉化，将部分服务端的提示消息也进行了汉化。此外，XC用户mouse、lo用户su等开发者基于hc\+\+制作了mouse客户端、MyHc客户端等改版客户端。
 
 
 ## 附录
