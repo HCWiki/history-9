@@ -1,5 +1,5 @@
 # 聊天室历史书
-**版本9.8，于2022年11月26日更新。**
+**版本9.9，于2022年12月3日更新。**
 
 
 ## 发布地址
@@ -34,6 +34,7 @@
 
 
 ## 更新内容
+- 更新了GuaWaWa事件、TC电影节。（9.9）
 - 更新了改版客户端的内容。（9.8）
 - 更新了NovelAI热点。（9.7）
 - 更新了YC政变、沃玛频道事件。（9.6）
@@ -92,6 +93,12 @@
 &emsp;较早期、也有较为详细记录的一起有关政治的事件是由alex记录的pro频道聊天记录。2021年9月中秋晚，一名台独人士（是否为国人暂且未知）在pro发表反华言论，pro一时间热闹沸腾。alex、jill、tctd、ee等yc的中国人纷纷讨论这起事件。可惜的是，有关当时在pro的聊天记录已经丢失。
 
 &emsp;另外，国庆期间活跃于cn频道的用户hh对政治也有自己的看法，也曾多次质疑HC的用户出于什么目的来到HC（详见[cn频道](#cn频道)），经常在yc发送暗网网址（包括猎奇及色情内容）。寒假早期，一名叫做I\_love\_big\_brother的大兄弟喜欢在yc上讲解有关“课本上没有的”历史史实，一度与yc部分中国人畅谈政治。
+
+
+### GuaWaWa事件
+&emsp;2021年8月27日，一名为GuaWaWa的用户加入聊天室，这是自有史以来载入历史书单独事件的第一位成年上班族用户。
+
+&emsp;当天早上，由于GuaWaWa这个特别的昵称，GuaWaWa被tctd称为“瓜娃娃”、“瓜娃子”等，遭到当时HC用户没有恶意的“恶搞”，GuaWaWa却以为这是HC用户对他的取笑。当HC在线用户们爆出年龄时，GuaWaWa对此表示“现在的聊天室里都是小孩”。
 
 
 ### Queen事件
@@ -896,7 +903,7 @@ but it works
 
 &emsp;第三日，MuRongPIG表示，这段盗号代码本来是他想等到放假后（第二天）再试的，但却被ee抢先了一步。后来，Mr\_Zhang参考CC代码，写了一个HTML开关来降低此类HTML漏洞的风险。
 
-&emsp;至于本次盗号是否成功……[数据删除]。该事件结束后，据Hack4r所说，他成功盗取了站长MelonFish和管理员MuRongPIG的密码，还把MelonFish的密码发给了HC其他三位用户（4n0n4me、DPG、ee）。XC被迫修改了salt值（一种加密手段），加长到了20位，并表示除了站长MelonFish外，不会有第二个用户知道XC的salt。
+&emsp;至于本次盗号是否成功……[数据删除]。该事件结束后，据Hack4r所说，他成功暴力破解了站长MelonFish和管理员MuRongPIG的密码，还把MelonFish的密码发给了HC其他三位用户（4n0n4me、DPG、ee）。XC被迫修改了salt值（一种加密参数），加长到了20位，并表示除了站长MelonFish外，不会有第二个用户知道XC的salt。
 
 &emsp;（然而后来，Mr\_Zhang作为XC的开发者，还是知道了salt。有一次，他误将包含salt的文件上传到XC在gitee的仓库。为了补救，很快该仓库就无法访问，XC的开源变成了闭源。）
 
@@ -1247,6 +1254,105 @@ bw7Gkq Mr_Zhang
 &emsp;值得一提的是，此次事件后，Light有一段时间内几乎没在各个聊天室出现。
 
 &emsp;由于Mr\_Zhang攻击了HC活跃频道中的两个：pro和yc，将这次事件称为Mr\_Zhang对HC大轰炸。
+
+### TC电影节
+&emsp;2022年10月初，Maggie为TC制作了`chatas`功能，允许mod用户使用任意昵称发送消息，也就是说可以假装成另外的用户在发送消息。于是，DPG制作了一个`replay`机器人，用来回放聊天记录。后来，Maggie和ee也制作了类似的机器人。DPG取出AFK\_Bot保存的许多聊天记录播放，人们回顾大动乱开始、抗击卢本伟等历史上的事件。这被称作TC电影节。
+
+在下面这段记录中，在播放抗击卢本伟（即zhiren\_no\_xiongdi。这个名字来源于4n0n4me等用户用“智人的兄弟”来嘲讽卢本伟是猴子一类非人类物种。）的回放记录。识别码为REPLAY的是播放的回放记录，其它是当时的观众。其中，回放记录里的4n0n4me（FyraTree）在当时就说出了要保存记录并且拿出来观看。
+
+```
+REPLAY  Mr_Zhang 
+造谣+抹黑+日房刷屏
+
+* 
+ji11 离开了聊天室
+
+REPLAY  hk 
+这怎么弄的啊
+
+REPLAY  naveenvarma 
+What
+
+REPLAY  Mr_Zhang 
+你给我记着！
+
+REPLAY  * 
+hk left
+
+REPLAY  FyraTree 
+过去卢本伟的妈：{x存在于N* | 2|x}
+
+REPLAY  dx_xb 
+all done?
+
+REPLAY  FyraTree 
+现在卢本伟的妈：{}
+
+REPLAY  * 
+143771 joined
+
+REPLAY  Mr_Zhang 
+@zhiren_no_xiongdi 这都是日后我指控你的证据！！！
+
+REPLAY  naveenvarma 
+Hello
+
+* 
+zzChumo1 加入了聊天室
+
+REPLAY  FyraTree 
+我们这段记录要保存下来
+
+⭐ xD7Qfr  _ 
+yo
+
+REPLAY  Mr_Zhang 
+你每一次刷屏
+
+⭐ xD7Qfr  _ 
+REPLAY
+
+REPLAY  Mr_Zhang 
+都被我记录在案！
+
+⭐ 6AFWd/  ee 
+咳咳
+
+REPLAY  FyraTree 
+以便反复用这段记录嘲讽卢本伟
+
+REPLAY  * 
+bo_od joined
+
+REPLAY  FyraTree 
+正义必胜！ 
+REPLAY  bo_od 
+
+——什么是孤独？——心里明明空荡荡的，却什么也装不下。
+– 网易云
+
+⭐ 6AFWd/  ee 
+
+>REPLAY FyraTree：
+>以便反复用这段记录嘲讽卢本伟
+
+@FyraTree 草
+
+⭐ kWuMCO  zzChumo1 
+？
+
+REPLAY  Mr_Zhang 
+永远储存在我电脑里面的日志！
+
+⭐ 6AFWd/  ee 
+妙啊
+
+REPLAY  FyraTree 
+虽然这是一句俗套的口号
+
+⭐ 6AFWd/  ee 
+404大预言家
+```
 
 ### ZhangShell事件
 &emsp;2022年9月末（存疑），zzChumo看Mr\_Zhang的机器人ZhangHelper可以在线执行终端命令，请Mr\_Zhang做一个可以在线执行终端命令的机器人，作为GS Cloud（zzChumo的团队GS Team的云服务）的云电脑服务。ZhangHelper仅能返回命令执行的状态码，而不能返回终端输出的结果。Mr\_Zhang经过努力研究，制作出ZhangShell机器人，可以在线执行终端命令，还可以回复终端输出的内容。
