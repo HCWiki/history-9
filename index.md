@@ -1,9 +1,13 @@
 # 聊天室历史书
-**版本9.9，于2022年12月3日更新。**
+**版本9.9，于2022年12月3日更新。[HiyoTeam版历史书](https://hiyoteam.github.io/ChatroomHistoryBook/)已经推出，建议各位前往新版阅读。**
 
 
 ## 发布地址
+[HiyoTeam版历史书](https://hiyoteam.github.io/ChatroomHistoryBook/)已经推出，建议各位前往新版阅读。
+
 注：发布地址可能出现不可用的情况。
+
+其它发布地址：
 - [ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)（浅色模式，字数统计）
 - [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
 - [DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)（历史版本）
