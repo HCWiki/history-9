@@ -1,5 +1,5 @@
 # 聊天室历史书
-**版本9.9，于2022年12月3日更新。[HiyoTeam版历史书](https://hiyoteam.github.io/ChatroomHistoryBook/)已经推出，建议各位前往新版阅读。**
+**版本9.12，于2023年1月21日更新。[HiyoTeam版历史书](https://hiyoteam.github.io/ChatroomHistoryBook/)已经推出，建议各位前往新版阅读。**
 
 
 ## 发布地址
@@ -38,6 +38,8 @@
 
 
 ## 更新内容
+- 修改了十字街的缩写；增加了部分说明。（9.12）
+- 更新了yc定点轰炸事件。（9.11）
 - 更新了GuaWaWa事件、TC电影节。（9.9）
 - 更新了改版客户端的内容。（9.8）
 - 更新了NovelAI热点。（9.7）
@@ -88,7 +90,7 @@
 
 &emsp;[hackchat吧](https://tieba.baidu.com/f?kw=hackchat&ie=utf-8)是一个关于HC的百度贴吧，当年主要活跃于hackchat吧的常驻用户是Lithium和666，主要更新HC支持的LaTeX和Markdown，详见[HC指令](https://tieba.baidu.com/p/6833224084)。目前其中的帖子多为史前晚期前发布的，可以一窥史前时期的风采，对于当时的用户也有所记录。
 
-&emsp;值得一提的是，HC的贴吧不仅涉及HC，还活跃着不少现阶段十字街聊天室的用户，由此可见CC的建立在这一时期。
+&emsp;值得一提的是，HC的贴吧不仅涉及HC，还活跃着不少现阶段十字街聊天室的用户，由此可见CSC的建立在这一时期。
 
 
 ### 政治圣地
@@ -116,7 +118,7 @@
 
 
 ### bo\_od事件
-&emsp;2021年9月，来自十字街管理员MuRongPIG的机器人bo\_od在HC多个频道引流，给CC带来了大量用户，但也使yc陷入寒冷中。bo\_od的引流遭HC管理不满。后两个聊天室的站长达成协议，MuRongPIG撤掉了引流机器人。此事件后，原本活跃于HC的yc频道的机器人fuck（与fucco同作者的机器人，afk功能的先祖）神秘失踪。据老用户jill说与此机器人引流事件有关。
+&emsp;2021年9月，来自十字街管理员MuRongPIG的机器人bo\_od在HC多个频道引流，给CSC带来了大量用户，但也使yc陷入寒冷中。bo\_od的引流遭HC管理不满。后两个聊天室的站长达成协议，MuRongPIG撤掉了引流机器人。此事件后，原本活跃于HC的yc频道的机器人fuck（与fucco同作者的机器人，afk功能的先祖）神秘失踪。据老用户jill说与此机器人引流事件有关。
 
 
 ## 二、帝国时代
@@ -212,7 +214,7 @@
 
 > 但是经过实践，发现根本就不需要DDOS，直接多线程下载就能gank掉星聊的土豆服务器。 ——zzChumo  2022年8月
 
-&emsp;2021寒假期间，星聊站长xmzd在CC推广其他聊天室（星聊）链接，导致CC管理不满。经双方多次谈判无果，最终掀起星聊站长xmzd和CC管理员MuRongPIG的网络战争。MuRongPIG通过DDOS攻击星聊服务器，导致聊天室及站群中大部分网站崩溃。星弈方攻击十字街前端，但因CC前后端分离而打击无效。此间处于中立地带的HC正是热闹期间，HC成员纷纷发表不同看法。
+&emsp;2021寒假期间，星聊站长xmzd在CSC推广其他聊天室（星聊）链接，导致CSC管理不满。经双方多次谈判无果，最终掀起星聊站长xmzd和CSC管理员MuRongPIG的网络战争。MuRongPIG通过DDOS攻击星聊服务器，导致聊天室及站群中大部分网站崩溃。星弈方攻击十字街前端，但因CSC前后端分离而打击无效。此间处于中立地带的HC正是热闹期间，HC成员纷纷发表不同看法。
 
 
 ### 除夕热闹夜
@@ -439,6 +441,11 @@ nickname123
 
 
 ### 49事件
+&emsp;此章节需要**更正**，原因如下：
+ - 事件细节可能有误
+ - 事件描述不完整
+&emsp;欢迎任何有意向的人向我们发送更正后的pr(Pull request),在此之前，此章节**不应该**作为正式参考。
+
 &emsp;该事件发生在2022年4月初，暂时在历史语境下称为49事件。
 
 &emsp;事件过程较为混乱，涉及当时的27（27这个名字来源于“爱7”的谐音，7即名字为7的平方的49，而7这个数字据说来自于《刺客伍六七》的代号柒，同时7的平方也是49）、49（此昵称来源于《刺客伍六七》的肆拾玖）、Wine\_Corpse（即为49现男友QiuLingYan）、jeck（根据其口述，他得了艾滋病；同时也是针对QiuLingYan）、chk、Qwer（27同班同学，针对QiuLingYan）、4n0n4me、Light、Mr\_Zhang、bf等HC用户。
@@ -485,13 +492,13 @@ nickname123
 
 
 ## 四、三国鼎立
-&emsp;三国，指HC、CC、XC三个人数最多且差不多的聊天室。这三个聊天室（包括用户）间既有合作又相互竞争。在此时期晚期，聊天室历史书逐步完善，因此对三国鼎立时期的历史有较为详细的记录。
+&emsp;三国，指HC、CSC、XC三个人数最多且差不多的聊天室。这三个聊天室（包括用户）间既有合作又相互竞争。在此时期晚期，聊天室历史书逐步完善，因此对三国鼎立时期的历史有较为详细的记录。
 
 
 ### lo频道
 &emsp;HC的?lounge频道，一般被认为兴起时间与XC接近。早期的lo频道与XC无异，只有零零星星几个用户，较早活跃在此频道的有黑茶和Sakura。那边的人员与同HC的yc频道互不相通，后随各机器人频道互通功能及lo人员的增多，lo人数一度超过yc，并先后建立了Skype群、微信群。
 
-&emsp;时至今日，lo老成员一般活跃在lo微信群而不是聊天室，像极了CC聊天室活跃人员与官方QQ群活跃人员的区别。再次反映了建群对聊天室人数减少的弊端。更多lo频道的历史详见[lounge往事](http://book.paperee.guru/lounge/)，这是由Sakura、TUSK、kilo等人编写的小说版lo历史。
+&emsp;时至今日，lo老成员一般活跃在lo微信群而不是聊天室，像极了CSC聊天室活跃人员与官方QQ群活跃人员的区别。再次反映了建群对聊天室人数减少的弊端。更多lo频道的历史详见[lounge往事](http://book.paperee.guru/lounge/)，这是由Sakura、TUSK、kilo等人编写的小说版lo历史。
 
 
 ### XC聊天室
@@ -531,13 +538,13 @@ nickname123
 
 
 ### 聊天室标志
-&emsp;在HC系列所有聊天室（特别是在HC和CC），可以通过打招呼喜欢说“hi”鉴别国人。而在XC聊天室不一样，“hiyo”成为了独特的打招呼方式。据考证，首次使用本欢迎方式的是HC的chendks。虽然在HC影响不大，但也因某些特殊原因流传到了XC。因此，由QiuLingYan、4n0n4me、ee等人在XC聊天室成立的“HiyoTeam”，也成了独一无二的、有特色的团队名。
+&emsp;在HC系列所有聊天室（特别是在HC和CSC），可以通过打招呼喜欢说“hi”鉴别国人。而在XC聊天室不一样，“hiyo”成为了独特的打招呼方式。据考证，首次使用本欢迎方式的是HC的chendks。虽然在HC影响不大，但也因某些特殊原因流传到了XC。因此，由QiuLingYan、4n0n4me、ee等人在XC聊天室成立的“HiyoTeam”，也成了独一无二的、有特色的团队名。
 
 &emsp;流通在HC、XC及星聊的无特殊意义三字母颜文字，如awa、uwu、ovo等成为主流，在识别码热潮期间，带有这种标志的识别码受到欢迎。
 
-&emsp;另外，部分用户在CC发三字母颜文字导致管理不满。十字街聊天室中新增的规则包括“禁止发无意义的三字母颜文字”。此事件后，三字母颜文字就成了此类型表情的统称。同时也引发不少用户对cc规则的吐槽。更有甚者在各聊天室（主要是星聊）大肆宣扬“十字街没人权”的理念。
+&emsp;另外，部分用户在CSC发三字母颜文字导致管理不满。十字街聊天室中新增的规则包括“禁止发无意义的三字母颜文字”。此事件后，三字母颜文字就成了此类型表情的统称。同时也引发不少用户对cc规则的吐槽。更有甚者在各聊天室（主要是星聊）大肆宣扬“十字街没人权”的理念。
 
-&emsp;十字街人人皆知的吉祥物是一个歪着头的可爱颜文字“( ﾟ∀。)”。部分CC用户将其制作成了QQ表情包。表达的意思可通过语境改变，例如“( ﾟ∀。)？”表示疑惑。
+&emsp;十字街人人皆知的吉祥物是一个歪着头的可爱颜文字“( ﾟ∀。)”。部分CSC用户将其制作成了QQ表情包。表达的意思可通过语境改变，例如“( ﾟ∀。)？”表示疑惑。
 
 &emsp;更多~~鸡助~~可爱的表情请查看[聊天室表情库](chatroom-meme/)。
 
@@ -612,7 +619,7 @@ Admin fish 2022-09-14 11:18:06
 
 &emsp;故事发生在2022年5月初，一名叫做卢本伟的用户出现在了十字街，PDD也同时加入。事实证明，“卢本伟”、“PDD”均是我们所说的卢本伟所扮演的角色。他们坚称自己是游戏主播卢本伟、游戏主播PDD，在管理员指出他们的IP地址相同后，还宣称卢本伟和PDD用的是同一个网络。当天，卢本伟还冒充了“老八”等网红人物。
 
-&emsp;此后，卢本伟不断以各种假身份进入十字街等聊天室进行破坏，行为包括冒充他人、辱骂、刷屏、搞黄色等。HC、CC、XC聊天室的用户们都对他厌恶至极。
+&emsp;此后，卢本伟不断以各种假身份进入十字街等聊天室进行破坏，行为包括冒充他人、辱骂、刷屏、搞黄色等。HC、CSC、XC聊天室的用户们都对他厌恶至极。
 
 &emsp;以下贴上一段用户4n0n4me记录的证据。
 
@@ -637,7 +644,7 @@ dJ77TT Ahxello
 
 &emsp;在卢本伟事件时期，zzChumo等用户曾经使用机器人，CC攻击等方式轰炸XC，多次使XC崩溃。Light和Qwer两人先后“接近”卢本伟，与他“搞好关系”，并多次打探到他下一步的动向及弱点。XC间谍事业蒸蒸日上。
 
-&emsp;2022年7月16日，卢本伟继续在十字街频繁进进出出，用名称进行辱骂，同时使用Mr\_Zhang的真实姓名进行造谣、诋毁Mr\_Zhang和ee、jill等用户及XC和CC站长，其内容不堪入目。[日志为证](https://file.node2.thz.cool/fileshare/.upload/4c784be700cfe43.log)，性质恶劣，在此感谢Mr\_Zhang的眼线（~~Mr\_Zhang自己~~）记录了这些日志。
+&emsp;2022年7月16日，卢本伟继续在十字街频繁进进出出，用名称进行辱骂，同时使用Mr\_Zhang的真实姓名进行造谣、诋毁Mr\_Zhang和ee、jill等用户及XC和CSC站长，其内容不堪入目。[日志为证](https://file.node2.thz.cool/fileshare/.upload/4c784be700cfe43.log)，性质恶劣，在此感谢Mr\_Zhang的眼线（~~Mr\_Zhang自己~~）记录了这些日志。
 
 > 同志们！抄家伙呀！冲啊！！！反击的时候到了！！！！！！ ——Mr\_Zhang 2022年8月
 
@@ -660,13 +667,13 @@ Kukatsu
 
 &emsp;鉴于卢本伟的“丰功伟绩”，4n0n4me研发了油猴脚本[聊天室反引用刷屏](https://greasyfork.org/zh-CN/scripts/448444-聊天室反引用刷屏)及[聊天室危险消息屏蔽](https://greasyfork.org/zh-CN/scripts/449697-聊天室危险消息屏蔽)用于减轻`“>”`堆叠块及`“\rule”`刷屏影响，部分yc用户已经投入使用。目前，相对于大部分用户和聊天室的防御能力而言，卢本伟的攻击已经无法造成很大的伤害。
 
-&emsp;2022年12月初左右，疫情恶化，许多地区出现短暂的网课时，卢本伟又出现了。
+&emsp;2022年12月初左右，疫情恶化，许多地区出现短暂的网课时，卢本伟似乎又出现了。
 
 
 ### 黑客攻击XC
 &emsp;2022年7月17日下午，XC聊天室遭到不明黑客攻击，Light称攻击XC的用户出现在HC，昵称为DU。鉴于此用户从未出现在聊天室中，推测为某人的马甲。
 
-&emsp;黑客攻击前期，XC站长MelonFish在本聊天室招有黑客经验的用户进行反击，且答应做出贡献的用户会获得XC正式管理权限。用户Dawnboy在HC、CC、星聊、小蝌蚪互动聊天室、李鱼聊天室等地推广此次事件，并得到热烈反响，吸引了个别聊天室有经验的用户来到XC。剩下的有黑客技术的用户积极反击。
+&emsp;黑客攻击前期，XC站长MelonFish在本聊天室招有黑客经验的用户进行反击，且答应做出贡献的用户会获得XC正式管理权限。用户Dawnboy在HC、CSC、星聊、小蝌蚪互动聊天室、李鱼聊天室等地推广此次事件，并得到热烈反响，吸引了个别聊天室有经验的用户来到XC。剩下的有黑客技术的用户积极反击。
 
 &emsp;此次事件，以XC站长MelonFish封锁IP并交由kzw（MelonFish的老师，~~工具人~~）处理收尾，并根据承诺，授予了Hack4r、MuRongPIG、Dawnboy、Maggie正式管理(**moderator**)。
 
@@ -674,7 +681,7 @@ Kukatsu
 
 
 ### 黄色七夕
-&emsp;2022年七夕这天，CC用户李朔源和kiddo（情侣）在十字街撒狗粮（~~搞黄色~~）被明令禁止，十字街管理MuRongPIG临时出了一条不准在七夕撒狗粮的规定。于是，李朔源和kiddo来到XC。与CC截然不同的是，XC站长MelonFish（瓜鱼）极其喜欢吃瓜，见到李朔源和kiddo非常兴奋，还将昵称改成了“MelonMelonFish”。
+&emsp;2022年七夕这天，CSC用户李朔源和kiddo（情侣）在十字街撒狗粮（~~搞黄色~~）被明令禁止，十字街管理MuRongPIG临时出了一条不准在七夕撒狗粮的规定。于是，李朔源和kiddo来到XC。与CSC截然不同的是，XC站长MelonFish（瓜鱼）极其喜欢吃瓜，见到李朔源和kiddo非常兴奋，还将昵称改成了“MelonMelonFish”。
 
 &emsp;令人大为震撼的是，李朔源和kiddo将接吻、拥抱等场面描写得细致入微，包括在接吻中的“拉丝”、“喘气”等。用户bihaitian抱怨XC的历史记录（李朔源和kiddo撒狗粮）非常恶心，并接连有用户退出聊天室。这时XC管理ee才发布新规定：“撒狗粮≠搞黄色，撒狗粮可以，但搞黄色明令禁止。”
 
@@ -685,14 +692,14 @@ Kukatsu
 &emsp;李朔源和kiddo撒狗粮的同时，Maggie在ee的MC服务器里满地撒西瓜，意指瓜很多。
 
 
-### CC人数巅峰
+### CSC人数巅峰
 &emsp;2022年8月2日中午，十字街有用户提出玩真心话游戏，加入游戏的人数不断增加，使得真心话规模不断扩大。
 
-&emsp;由于“呸落稀（佩洛西）”窜访台湾（政治）事件，当晚，所有讨论此事件的QQ群遭到封禁，大量为了讨论此事件的用户涌向CC、HC等，使得CC人数一反常态多，最高时期超过了30人，被十字街管理员称作“十字街建站以来人数的巅峰”，真心话游戏也从当天中午持续到晚上11点左右。另外，关于佩洛西事件的微博、B站、推特等先后因人数问题崩溃。
+&emsp;由于“呸落稀（佩洛西）”窜访台湾（政治）事件，当晚，所有讨论此事件的QQ群遭到封禁，大量为了讨论此事件的用户涌向CSC、HC等，使得CSC人数一反常态多，最高时期超过了30人，被十字街管理员称作“十字街建站以来人数的巅峰”，真心话游戏也从当天中午持续到晚上11点左右。另外，关于佩洛西事件的微博、B站、推特等先后因人数问题崩溃。
 
 &emsp;此处为某一时段的[人数记录](http://book.paperee.guru/chatroom-history-book/人数巅峰.png)（非巅峰时期）。
 
-&emsp;在人数巅峰前，MuRongPIG对XC进行了漏洞扫描，导致XC服务器崩溃，XC用户大量涌向CC，也成为了CC人数巅峰的基础。XC管理员Mr\_Zhang不断尝试用ssh连接上XC服务器，直到深夜才成功。可到了那时，十字街的人数巅峰已成了过去式。
+&emsp;在人数巅峰前，MuRongPIG对XC进行了漏洞扫描，导致XC服务器崩溃，XC用户大量涌向CSC，也成为了CSC人数巅峰的基础。XC管理员Mr\_Zhang不断尝试用ssh连接上XC服务器，直到深夜才成功。可到了那时，十字街的人数巅峰已成了过去式。
 
 
 ### reebot事件
@@ -740,7 +747,7 @@ github也是垃圾
 
 
 ## 五、大动乱时代
-&emsp;大动乱时代，又是五国对立的时代。这并不是指五个聊天室间的战争，而是指HC、CC、TC（三个聊天室）与XC站长MelonFish、ZHC站长Mr\_Zhang（两个聊天室站长）之间的对立。由于涉及范围较大，暂且将其归为一个时代。
+&emsp;大动乱时代，又是五国对立的时代。这并不是指五个聊天室间的战争，而是指HC、CSC、TC（三个聊天室）与XC站长MelonFish、ZHC站长Mr\_Zhang（两个聊天室站长）之间的对立。由于涉及范围较大，暂且将其归为一个时代。
 
 &emsp;聊天室历史书与一些用户曾经使用“大乱动”一词（疑为拼写错误），因此有时会出现“大乱动”一词，意思和大动乱是一样的。
 
@@ -838,12 +845,12 @@ addtrip（XC的自定义识别码功能）不是个好东西，使XC的识别码
 ```
 
 
-### CC大轰炸
-&emsp;在HC识别码商业化提出当晚，CC聊天室公共聊天频道上遭到轰炸姬刷屏，管理员没办法只好锁房。当时，一直以来与CC有较大矛盾的用户Mr\_Zhang（详见[Mr\_Zhang事件](#mr_zhang事件)）也在现场。且作为ZHC站长，Mr\_Zhang曾多次推广在CC推广说“ZHC聊天室有多好”、“和十字街相比哪个更好”等，引起CC用户反感。Mr\_Zhang被一度认为是刷屏的罪魁祸首。
+### CSC大轰炸
+&emsp;在HC识别码商业化提出当晚，CSC聊天室公共聊天频道上遭到轰炸姬刷屏，管理员没办法只好锁房。当时，一直以来与CSC有较大矛盾的用户Mr\_Zhang（详见[Mr\_Zhang事件](#mr_zhang事件)）也在现场。且作为ZHC站长，Mr\_Zhang曾多次推广在CSC推广说“ZHC聊天室有多好”、“和十字街相比哪个更好”等，引起CSC用户反感。Mr\_Zhang被一度认为是刷屏的罪魁祸首。
 
-> （ZHC）其实光是加载速度和域名方面就已经不如CC了。 ——zzChumo 2022年8月
+> （ZHC）其实光是加载速度和域名方面就已经不如CSC了。 ——zzChumo 2022年8月
 
-&emsp;在Mr\_Zhang的强烈抗议下，MuRongPIG和ee等怀疑他的用户才选择了相信（半信半疑）。至今为止，这位轰炸CC的神秘人还没出现，有猜测是自7月来消失不见的卢本伟（详见[卢本伟事件](#卢本伟事件)）。
+&emsp;在Mr\_Zhang的强烈抗议下，MuRongPIG和ee等怀疑他的用户才选择了相信（半信半疑）。至今为止，这位轰炸CSC的神秘人还没出现，有猜测是自7月来消失不见的卢本伟（详见[卢本伟事件](#卢本伟事件)）。
 
 
 ### USBot事件
@@ -851,7 +858,7 @@ addtrip（XC的自定义识别码功能）不是个好东西，使XC的识别码
 
 &emsp;MelonFish表示，USBot每10秒钟检测一次，只要yc一解锁，USBot就能进去。然而受限新疆网络，当时USBot工作的并不理想，并没有有效检测出yc的解锁，多次错过进入聊天室的机会。
 
-&emsp;一开始，Hack4r、zzChumo、Light、Maggie、Sh1n3zZ（非HC用户，Maggie的朋友，星弈团队及前Dataeverything成员）等人扫描XC端口，并发动CC和DDOS网络攻击XC聊天室，但并未获得效果，使得MelonFish越来越猖狂。
+&emsp;一开始，Hack4r、zzChumo、Light、Maggie、Sh1n3zZ（非HC用户，Maggie的朋友，星弈团队及前Dataeverything成员）等人扫描XC端口，并发动CSC和DDOS网络攻击XC聊天室，但并未获得效果，使得MelonFish越来越猖狂。
 
 > 三回啊三回（恼 ——zzChumo 2022年8月
 
@@ -897,7 +904,7 @@ but it works
 
 
 ### HTML漏洞
-&emsp;USBot事件期间，作为XC聊天室主要维护人员Mr\_Zhang，~~抄袭~~借鉴CC代码，给XC添加了发送HTML消息的新功能。一开始只是用来方便用户使用HTML发送网易云音乐听歌，然则后来zzChumo、Hack4r、MuRongPIG等略懂XSS（一种网络攻击手段）的用户发现了此功能的BUG，例如插入`<iframe>`标签，甚至是通过定时跳转或全屏显示某网页内容来达到XSS注入的效果。
+&emsp;USBot事件期间，作为XC聊天室主要维护人员Mr\_Zhang，~~抄袭~~借鉴CSC代码，给XC添加了发送HTML消息的新功能。一开始只是用来方便用户使用HTML发送网易云音乐听歌，然则后来zzChumo、Hack4r、MuRongPIG等略懂XSS（一种网络攻击手段）的用户发现了此功能的BUG，例如插入`<iframe>`标签，甚至是通过定时跳转或全屏显示某网页内容来达到XSS注入的效果。
 
 > 抄人家东西还不给人家用，我们的小张真的是太厉害辣！ ——zzChumo 2022年8月
 
@@ -907,7 +914,7 @@ but it works
 
 &emsp;第二日下午，鉴于ee在USBot事件后依然保留的管理员的身份，Hack4r让ee在XC发送一段插入HTTP记录的代码，想借此达到盗号目的。这使XC站长MelonFish与老管理Mr\_Zhang、新管理QiuLingYan等人陷入警戒。MelonFish删除了配置文件，撤销了ee管理员，并通知所有人更换密码。本次事件使发送HTML功能暂时被Mr\_Zhang屏蔽了。
 
-&emsp;第三日，MuRongPIG表示，这段盗号代码本来是他想等到放假后（第二天）再试的，但却被ee抢先了一步。后来，Mr\_Zhang参考CC代码，写了一个HTML开关来降低此类HTML漏洞的风险。
+&emsp;第三日，MuRongPIG表示，这段盗号代码本来是他想等到放假后（第二天）再试的，但却被ee抢先了一步。后来，Mr\_Zhang参考CSC代码，写了一个HTML开关来降低此类HTML漏洞的风险。
 
 &emsp;至于本次盗号是否成功……[数据删除]。该事件结束后，据Hack4r所说，他成功暴力破解了站长MelonFish和管理员MuRongPIG的密码，还把MelonFish的密码发给了HC其他三位用户（4n0n4me、DPG、ee）。XC被迫修改了salt值（一种加密参数），加长到了20位，并表示除了站长MelonFish外，不会有第二个用户知道XC的salt。
 
@@ -917,7 +924,7 @@ but it works
 
 
 ### 乱世大迭代
-&emsp;在大动乱时代，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#xc聊天室)。与此相比截然不同的是本时代末的XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人被撤职，留下的管理只有主要维护人员Mr\_Zhang、收了鱼贿赂的QiuLingYan、不参与事件的MuRongPIG等。此外，在洛谷拉用户的OIer酱、在CC拉用户的azhe（阿哲）、在JSPVZ拉用户的B站的J等被任命为新的管理员。
+&emsp;在大动乱时代，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#xc聊天室)。与此相比截然不同的是本时代末的XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人被撤职，留下的管理只有主要维护人员Mr\_Zhang、收了鱼贿赂的QiuLingYan、不参与事件的MuRongPIG等。此外，在洛谷拉用户的OIer酱、在CSC拉用户的azhe（阿哲）、在JSPVZ拉用户的B站的J等被任命为新的管理员。
 
 &emsp;在这起事件里，对XC感到失望的老成员选择离开XC，回归HC。星聊、TC、ZC、LC等地也被多次作为“战争避难所”候补，专门用于躲避从XC来的Mr\_Zhang、MelonFish等装作机器人的眼线。
 
@@ -1082,7 +1089,7 @@ im sick and done with all of you morons
 ### XC演唱会
 &emsp;在[三国鼎立](#四三国鼎立)时代，XC推出了语音消息和语音直播功能。虽然原本是MelonFish为了~~听ee的声音和吃13和ee的瓜~~丰富XC功能而制作的，想不到，由于纯文本聊天室突然向语音聊天室的转变，大多数用户的需求仅局限于能打字聊天，语音消息和语音直播功能几乎无人使用。两个语音功能成了占据聊天室界面却只是摆设的功能。
 
-&emsp;然而在本时代末，被azhe从小蝌蚪互动聊天室引的新用户轻舞飞扬极其热爱唱歌。鉴于XC有两个语音功能，许多XC用户便建议他开麦唱歌。这场演唱会吸引了不少从CC来的用户，听众数量蹭蹭上涨。当时听歌的用户有azhe、ee、Outlier、Arcadia等人，他们在给轻舞飞扬点歌和欢呼的同时，也在[月下人狼](https://www.werewolf.com.cn/)玩狼人杀。
+&emsp;然而在本时代末，被azhe从小蝌蚪互动聊天室引的新用户轻舞飞扬极其热爱唱歌。鉴于XC有两个语音功能，许多XC用户便建议他开麦唱歌。这场演唱会吸引了不少从CSC来的用户，听众数量蹭蹭上涨。当时听歌的用户有azhe、ee、Outlier、Arcadia等人，他们在给轻舞飞扬点歌和欢呼的同时，也在[月下人狼](https://www.werewolf.com.cn/)玩狼人杀。
 
 &emsp;演唱会大约在晚上8点左右持续到晚上10点多（因聊天记录的丢失已无法考证）。演唱会期间比较有趣的小插曲：在轻舞飞扬唱歌中途，他老妈多次闯进房间打断他的歌声，结果语音中途就出现了大量轻舞飞扬和他老妈的对话；当不会唱的时候，轻舞飞扬就会用“呱呱呱”代替，紧接着XC听众们就会跟着发“呱呱呱”。当时的xq公屏，被大量的“呱呱呱”、“咕咕咕”、“嘎嘎嘎”消息霸屏了。
 
@@ -1614,6 +1621,361 @@ jga1nc  tcg
 
 &emsp;2022年10月16日，4n0n4me开始制作hc\+\+改版客户端，这是一个为了正常使用而制作的客户端，修复了原版客户端的一些bug，并且添加了一些特制的功能。10月30日，Mr\_Zhang推出了ZhangClient（小张客户端）。小张客户端修复了原版客户端的一些bug，并且添加了一些特制的功能。此外，小张客户端深度汉化，将部分服务端的提示消息也进行了汉化。此外，XC用户mouse、lo用户su等开发者基于hc\+\+制作了mouse客户端、MyHc客户端等改版客户端。
 
+### 黄色XChat事件
+&emsp;此章节需要**更正**，原因如下：
+ - 记录比例过多
+ - 事件描述不完整
+&emsp;欢迎任何有意向的人向我们发送更正后的pr(Pull request),在此之前，此章节**不应该**作为正式参考。
+&emsp;受[NovelAI热点](#novelai热点)的影响，Maggie使用AI通过自己的真实照片生成了一张二次元照片（非过分的涩图）~~（但是吃瓜群众要记住：Maggie是男生）~~，并且在各个聊天室传播。
+&emsp;12月8日，Maggie在XChat聊天室的xq102210频道发送了他的二次元图片，随后小张回应“上次（AI）把我的证件照给……”。小张刚说完这句话，就引起一群“吃瓜群众”议论纷纷，议论的内容包括“变性”、“女装”等。所有信息都是由ZhangHelper记录的。
+```
+//图片地址会被“【不可描述】”代替
+[2022-12-08 20-15-21] [MAGGIE]Maggie 【不可描述】
+[2022-12-08 20-15-26] [5jbXdS]MolenCmd @Maggie wow
+[2022-12-08 20-15-27] [/Jc+Ec]redstoneplayr 呃
+[2022-12-08 20-15-28] [MAGGIE]Maggie 再次重申我是男的（
+[2022-12-08 20-15-36] [zhang]小张 6
+[2022-12-08 20-15-39] [/Jc+Ec]redstoneplayr 9
+[2022-12-08 20-15-41] [/Jc+Ec]redstoneplayr 999
+//省略一段无关聊天记录，由于篇幅有限，下面不再添加省略信息
+[2022-12-08 20-15-43] [zhang]小张 再次重申Maggie是男的（
+[2022-12-08 20-15-47] [UeOsCj]yo 爱了爱了
+[2022-12-08 20-15-47] [/CiQDh]晴雨 肩太宽了
+[2022-12-08 20-15-47] [Y8WQ93]mouse 9
+[2022-12-08 20-15-53] [5jbXdS]MolenCmd 再次重申Maggie是男的（
+[2022-12-08 20-15-58] [MAGGIE]Maggie ai画图出错很正常（
+[2022-12-08 20-15-58] [Y8WQ93]mouse 要真是男的就好了
+[2022-12-08 20-16-00] [UeOsCj]yo Maggie是二次元女孩纸
+[2022-12-08 20-16-07] [MAGGIE]Maggie @mouse 我确实事男的
+[2022-12-08 20-16-08] [/Jc+Ec]redstoneplayr 9
+[2022-12-08 20-16-12] [Y8WQ93]mouse huh
+[2022-12-08 20-16-12] [zhang]小张 为什么AI总会把人画成女的！！！
+[2022-12-08 20-16-14] [Y8WQ93]mouse 好吧
+[2022-12-08 20-16-16] [5jbXdS]MolenCmd @Maggie 再来几张
+[2022-12-08 20-16-20] [zhang]小张 上次把我的证件照给……
+```
+&emsp;Maggie和小张的讨论是事情的开端，引发了下面的色情讨论，甚至还怂恿其他正人君子发涩图：
+```
+[2022-12-08 20-16-22] [/CiQDh]晴雨 我想当女孩子
+[2022-12-08 20-16-22] [UeOsCj]yo 下载了
+[2022-12-08 20-16-48] [5jbXdS]MolenCmd @yo 右键-复制图片，学习资料文件夹-Ctrl+V
+[2022-12-08 20-16-54] [/CiQDh]晴雨 @小张 来，让我看看
+[2022-12-08 20-17-00] [UeOsCj]yo @晴雨 做个变性手术就行
+[2022-12-08 20-17-08] [UeOsCj]yo 我usb有些好康的
+[2022-12-08 20-17-10] [/Jc+Ec]redstoneplayr @晴雨 摆脱，你很弱诶
+[2022-12-08 20-17-29] [MAGGIE]Maggie 【不可描述】
+[2022-12-08 20-17-32] [/CiQDh]晴雨 @yo 可那样也没有胎盘和卵巢啊（
+[2022-12-08 20-17-34] [Y8WQ93]mouse ~~我也要做个变性手术~~
+[2022-12-08 20-17-36] [UeOsCj]yo @redstoneplayr 你是lsp吗？
+[2022-12-08 20-17-53] [MAGGIE]Maggie 6
+[2022-12-08 20-17-56] [MAGGIE]Maggie 不可以这样
+[2022-12-08 20-18-00] [UeOsCj]yo （下载图片）完成
+[2022-12-08 20-18-10] [/Jc+Ec]redstoneplayr @yo 鸡你太美原歌词：我现在已品如搞黄
+[2022-12-08 20-18-16] [UeOsCj]yo 下载成功
+[2022-12-08 20-18-22] [zhang]小张 啊啊啊啊啊AI你欺负人啊啊啊啊啊啊啊
+[2022-12-08 20-18-23] [UeOsCj]yo @晴雨 没事
+[2022-12-08 20-18-28] [MAGGIE]Maggie 你这样简直是欺负女……男孩子啊
+[2022-12-08 20-18-43] [5jbXdS]MolenCmd 大家有没有学习资料
+[2022-12-08 20-18-43] [MAGGIE]Maggie 9
+[2022-12-08 20-18-48] [UeOsCj]yo 有
+[2022-12-08 20-18-55] [5jbXdS]MolenCmd ~~发我~~
+[2022-12-08 20-19-40] [Y8WQ93]mouse 666666
+[2022-12-08 20-19-47] [5jbXdS]MolenCmd @小张 （AI把你画成女生的）图片发我看看
+[2022-12-08 20-19-53] [UeOsCj]yo @小张@小张 发发
+[2022-12-08 20-19-59] [5jbXdS]MolenCmd 发发发！
+[2022-12-08 20-20-13] [zhang]小张 nonono
+[2022-12-08 20-20-29] [5jbXdS]MolenCmd @小张 ~~我V你50~~
+[2022-12-08 20-20-38] [/CiQDh]晴雨 @小张 小张同学~这种事情无所谓的吧~
+[2022-12-08 20-23-33] [MAGGIE]Maggie ai刚刚把我化成了..
+[2022-12-08 20-23-37] [Y8WQ93]mouse awa
+[2022-12-08 20-23-39] [Y8WQ93]mouse 什么
+[2022-12-08 20-23-40] [MAGGIE]Maggie 甚至还画出了...
+[2022-12-08 20-23-42] [UeOsCj]yo 【不可描述】
+```
+&emsp;然后，Maggie被迫发送了不可描述的图片，但小张拒绝了他们的要求。
+```
+[MAGGIE]Maggie 好吧（叹
+[2022-12-08 20-25-12] [MAGGIE]Maggie 【不可描述】
+[2022-12-08 20-25-13] [/CiQDh]晴雨 再冲肾废了
+[2022-12-08 20-23-42] [/CiQDh]晴雨 @Maggie 我看看
+[2022-12-08 20-23-43] [Y8WQ93]mouse awwawawa
+[2022-12-08 20-23-50] [MAGGIE]Maggie 不发
+[2022-12-08 20-23-53] [MAGGIE]Maggie 坚决不发
+[2022-12-08 20-23-54] [Y8WQ93]mouse @yo 违规边缘了您
+[2022-12-08 20-26-09] [5jbXdS]MolenCmd @Maggie 再来亿点
+[2022-12-08 20-26-10] [/Jc+Ec]redstoneplayr omg
+[2022-12-08 20-26-30] [UeOsCj]yo @小张 话说你的图片也发发吧？
+[2022-12-08 20-26-34] [zhang]小张 nonono
+[2022-12-08 20-32-48] [5jbXdS]MolenCmd 不是特别暴露的
+[2022-12-08 20-32-50] [5jbXdS]MolenCmd 【不可描述】
+[2022-12-08 20-32-58] [5jbXdS]MolenCmd github发现的
+[2022-12-08 20-33-00] [/CiQDh]晴雨 额
+[2022-12-08 20-33-07] [/Jc+Ec]redstoneplayr 普通的女装照
+[2022-12-08 20-33-09] [Y8WQ93]mouse cmd穿女装了(喜)
+[2022-12-08 20-33-20] [/Jc+Ec]redstoneplayr 你干嘛
+[2022-12-08 20-33-28] [5jbXdS]MolenCmd 【不可描述】
+[2022-12-08 20-33-42] [5jbXdS]MolenCmd 这是第2张..
+[2022-12-08 20-33-44] [5jbXdS]MolenCmd 【不可描述】
+[2022-12-08 20-34-01] [5jbXdS]MolenCmd 这样子好像快刷屏啊（
+[2022-12-08 20-34-08] [5jbXdS]MolenCmd 等一会再发
+[2022-12-08 20-34-09] [/CiQDh]晴雨 男的你们能冲吗
+[2022-12-08 20-35-10] [Y8WQ93]mouse 除非露脸
+[2022-12-08 20-35-20] [Y8WQ93]mouse 露脸能冲
+[2022-12-08 20-35-23] [Y8WQ93]mouse awaaaaaaaaaaaaa
+[2022-12-08 20-35-25] [5jbXdS]MolenCmd 都没有露脸的啊啊啊啊啊啊啊啊啊啊
+[2022-12-08 20-35-28] [5jbXdS]MolenCmd 【不可描述】
+[2022-12-08 20-35-51] [Y8WQ93]mouse e
+[2022-12-08 20-35-53] [5jbXdS]MolenCmd 我去找找有没有露脸的
+```
+&emsp;就在此时，有人在Maggie的博客评论区索要涩图，并且恐吓他。遗憾的是，Maggie并没有向我们提供博客地址。
+```
+[2022-12-08 20-36-27] [MAGGIE]M_ 刚刚hc有人找我要ai画的我色图...
+[2022-12-08 20-36-31] [MAGGIE]M_ 是谁
+[2022-12-08 20-36-34] [MAGGIE]M_ 快自报家门
+[2022-12-08 20-36-36] [/CiQDh]晴雨 没问题吧
+[2022-12-08 20-36-37] [MAGGIE]M_ 否则...
+[2022-12-08 20-37-23] [Y8WQ93]mouse 够了!!!!!!!
+[2022-12-08 20-37-42] [MAGGIE]M_ wc谁又在我博客留言区要我涩图
+[2022-12-08 20-37-49] [5jbXdS]MolenCmd 不是我.
+[2022-12-08 20-37-51] [Y8WQ93]mouse @M_ 你博客是什么
+[2022-12-08 20-37-54] [Y8WQ93]mouse 网址
+[2022-12-08 20-38-04] [MAGGIE]M_ 不是我的原博客
+[2022-12-08 20-38-07] [Y8WQ93]mouse 妈的博客
+[2022-12-08 20-38-11] [MAGGIE]M_ 我寻思没几个人知道我的新博客啊
+```
+&emsp;由此可见，此事件是Maggie和Mr\_Zhang引起的，但他们二人并没有违规，因为Maggie发的图片不是真正的色情图片，而Mr\_Zhang始终没有偏向色情。但随后由于“人类的本能”，发生了人传人的连锁反应。值得一提的是，在那天晚上有人在Maggie的博客评论区要求他分享涩图，发送者的IP归属地竟然是新疆乌鲁木齐，和fish在同一个归属地。
+```
+[2022-12-08 20-46-03] [MAGGIE]M_ 我去后台查IP
+[2022-12-08 20-48-23] [MAGGIE]M_ IP是110.157.71.197
+[2022-12-08 20-48-28] [MAGGIE]M_ 帮我叉叉
+[2022-12-08 20-48-31] [MAGGIE]M_ 查
+[2022-12-08 20-48-35] [MAGGIE]M_ 谁tm要撅我
+[2022-12-08 20-48-56] [MAGGIE]M_ ?
+[2022-12-08 20-48-57] [Admin]fish woc？
+[2022-12-08 20-48-58] [Admin]fish 发生啥了
+[2022-12-08 20-48-59] [MAGGIE]M_ woc
+[2022-12-08 20-49-02] [Y8WQ93]mouse 您的查询：[110.157.71.197]
+服务器所在地: 新疆乌鲁木齐市 电信
+同IP服务器站点数：0 个
+查询结果引用：http://www.cha127.com/dns/110.157.71.1
+[2022-12-08 20-49-05] [MAGGIE]M_ woc
+[2022-12-08 20-49-05] [MAGGIE]M_ woc
+[2022-12-08 20-49-08] [MAGGIE]M_ @fish
+[2022-12-08 20-49-10] [Y8WQ93]mouse 🐟要撅了你（Maggie）
+[2022-12-08 20-49-12] [Y8WQ93]mouse awa
+[2022-12-08 20-49-23] [Admin]fish 太离谱了
+[2022-12-08 20-49-23] [Y8WQ93]mouse 草我好兴奋啊啊啊
+[2022-12-08 20-49-24] [MAGGIE]M_ 然后我发现
+[2022-12-08 20-49-26] [MAGGIE]M_ 我Blog
+[2022-12-08 20-49-30] [MAGGIE]M_ 有人说要撅我
+[2022-12-08 20-49-34] [MAGGIE]M_ 我查出ip
+[2022-12-08 20-49-41] [MAGGIE]M_ 归属地和你一样（意味深
+[2022-12-08 20-49-48] [Admin]fish ？？？？？？
+[2022-12-08 20-49-49] [Admin]fish 好家伙？
+[2022-12-08 20-49-54] [Server_Chan]机娘 @小张 欢迎回来！
+[2022-12-08 20-49-54] [zhang]小张 锟斤拷锟斤拷锟斤拷的IP地址为：110.152.91.131
+[2022-12-08 20-49-59] [zhang]小张 锟斤拷锟斤拷锟斤拷=fish
+[2022-12-08 20-50-00] [Admin]fish woccccccc？？？？？？
+[2022-12-08 20-50-04] [MAGGIE]M_ e
+[2022-12-08 20-50-05] [Admin]fish 这**合理吗？
+[2022-12-08 20-50-08] [5jbXdS]MolenCmd 长警
+[2022-12-08 20-50-08] [Y8WQ93]mouse @fish 你要撅了麻麻(喜)
+[2022-12-08 20-50-54] [Admin]fish 不是。。。麻吉的博客我就没去过啊。。。
+[2022-12-08 20-51-04] [Admin]fish 这是为什么
+[2022-12-08 20-51-06] [Admin]fish 这不合理啊
+[2022-12-08 20-51-08] [5jbXdS]MolenCmd 我也没有.
+[2022-12-08 20-51-37] [MAGGIE]M_ @fish 你的同学想撅我（意味深
+[2022-12-08 20-51-44] [Admin]fish >MAGGIE M_：
+>IP是110.157.71.197
+
+@M_ 。。。你可以让小张去查记录，我的ip一直是110.152
+[2022-12-08 20-51-46] [Admin]fish 从没变过
+[2022-12-08 20-51-52] [MAGGIE]M_ lol
+```
+&emsp;但是事实上，那位神秘用户并不是fish，大多数人觉得是fish的同学发送的。
+
+
+### yc定点轰炸事件
+&emsp;此章节需要**更正**，原因如下：
+ - 含有过多的个人感情色彩
+ - 记录比例过多
+ - 不完整
+&emsp;欢迎任何有意向的人向我们发送更正后的pr(Pull request),在此之前，此章节**不应该**作为正式参考。
+&emsp;12月20日下午，在XC挂机的Mr\_Zhang发现yc的张酱（机器人）不翼而飞，随后~~身为父亲的~~Mr\_Zhang火速去服务器后台查询日志，却发现了令人气愤的一幕：
+```
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 好高深啊
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱正在学习中
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 好高深啊
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱正在学习中
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱不懂
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱不懂
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱不懂
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱不懂
+
+[your-channel] AAfFKK | AfK_Bot 
+ @MuRongPIG AKKKKK!!!!!
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱正在学习中
+
+[your-channel] AAfFKK | AfK_Bot 
+ @ZhangChan AKKKKK!!!!!
+
+[your-channel] 张酱说：@AfK_Bot 张酱正在学习中
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 好吧
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 好高深啊
+
+[your-channel] AAfFKK | AfK_Bot     //指自动踢出MuRongPIG并封禁一分钟
+ @MuRongPIG Bye~
+
+[your-channel] AAfFKK | AfK_Bot 
+Auto banned hash jBttSMmSl5UyrgJ for 60.0s
+
+[your-channel] AAfFKK | AfK_Bot     //指自动踢出ZhangChan并封禁一分钟
+ @ZhangChan Bye~
+
+```
+
+&emsp;从日志中我们不难发现，一名识别码为 `JlVj7N` 的叫做 `MuRongPIG` 的用户不断地利用张酱刷屏，导致两人双双被踢。而在此之前的一小段时间，就已经有人在不断辱骂、挑衅张酱了。但张酱并没有犯任何错误。但由于篇幅有限，下面仅展示部分关于挑衅的日志：
+
+```
+[your-channel]  | 1（即Light）
+@ZhangChan 煞笔少说话
+
+[your-channel] 张酱说：@1 人与自然、人与社会、人与动物之间和谐相处，这样的生活才会更加美好。
+
+[your-channel]  | 1 
+@ZhangChan 你踏马找死啊
+
+[your-channel] 张酱说：@1 生活如此美好，为什么要想不开呢？
+
+[your-channel]  | 1 
+@ZhangChan 操你妈
+
+[your-channel] 张酱说：@1 出口成章。
+
+```
+
+&emsp;还有更令人气愤的：
+
+```
+（Light去XChat挑衅）
+[xq102210] zIq0ra | 不是小黑子（根据IP归属地以及IP段判断，该用户是Light）
+你的小鸡机器人什么时候来
+
+[xq102210] zIq0ra | 不是小黑子 
+张皓然（小张的真名）
+
+```
+
+&emsp;Light挑衅完毕以后，Mr\_Zhang马上重启了张酱，但是效果并不理想：
+
+```
+[your-channel] 张酱说：welcome yo Chicken
+
+[your-channel]  | Chicken 
+@ZhangChan
+
+（中间省略一大堆日志，与上面的内容基本无差异）
+
+[your-channel]  | Chicken 
+@ZhangChan
+
+[your-channel] 张酱说：@Chicken 你说啥？
+
+[your-channel] AAfFKK | AfK_Bot 
+ @Chicken AKKKKK!!!!!
+
+[your-channel] AAfFKK | AfK_Bot
+ @Chicken Bye~（Chicken被踢）
+
+[your-channel]  | Chicken 加入了聊天室
+
+[your-channel] 张酱说：welcome yo Chicken
+
+[your-channel] AAfFKK | AfK_Bot 
+Auto banned hash H2Z2n87sNqfsI35 for 60.0s
+
+[your-channel]  | Chicken 
+@ZhangChan
+
+[your-channel] 张酱说：@Chicken 我听不懂。。。
+
+（中间省略一大堆日志，与上面的内容基本无差异）
+
+[your-channel] 张酱说：@Chicken 能换种说法吗？
+
+[your-channel]  | Chicken 
+@ZhangChan
+
+[your-channel] 张酱说：@Chicken 你说啥？
+
+[your-channel] AAfFKK | AfK_Bot 
+ @ZhangChan AKKKKK!!!!!
+
+[your-channel] 张酱说：@AfK_Bot 张酱不懂
+
+（张酱被踢）
+
+[your-channel] AAfFKK | AfK_Bot
+ @Chicken AKKKKK!!!!!
+
+```
+
+&emsp;当有人使用AfK_Bot查询Chicken的身份，AfK_Bot显示：
+
+```
+[your-channel] AAfFKK | AfK_Bot 
+==Aliases== for hash ==5TAwFoAhDgpWPPr==: ['Chicken', 'LightProxy']
+==Trips== for hash ==5TAwFoAhDgpWPPr==: ['']
+
+```
+
+&emsp;由于事情发生时，yc大部分协管都在挂机，因此此事件的肇事者并未受到惩罚。Mr\_Zhang动用NoNameBot的协管权限将肇事用户踢出yc，结果他本人却被撤销权限。
+&emsp;此事件最终以Mr\_Zhang和张酱的惨败而告终，并且让Mr\_Zhang意识到yc一部分人是不欢迎自己的，且多数人相对于支持Mr\_Zhang，更倾向于支持MuRongPIG和Light。 
+&emsp;作为反击，Mr\_Zhang在第二天上午通过不断@bo\_od来进行轰炸，企图让bo\_od刷屏，虽有成效，但值得一提的是他受到了封禁处罚，而昨日的两位却安安稳稳地待在yc。
+
 
 ## 附录
 &emsp;有关本书中出现的需要补充的特定用语等。
@@ -1675,7 +2037,7 @@ jga1nc  tcg
 ### 常用语
 - 聊天室相关
    - HC：[hack.chat](https://hack.chat/)，“黑客”聊天室。
-   - CC：[CrosstChat](https://crosst.chat/)，十字街。
+   - CSC：[CrosstChat](https://crosst.chat/)，十字街（官方名称）。又称CC。
    - XC：[XChat](https://xq.kzw.ink/)，圈聊。
    - TC：[TanChat](https://chat.thz.cool/)。
    - SC：[SprinkleChat](https://chat.spr233.eu.org/)，冬日小屋。
