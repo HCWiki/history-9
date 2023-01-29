@@ -22,7 +22,6 @@
 ## 友情站点
 - [zzChumo的HC百科](https://www.zzchat.cf/wiki/)
 - [4n0n4me的HC指南](https://hcwiki.github.io/)
-- [JSPVZ的历史书](https://jspvz.fandom.com/zh/wiki/社区/事件)
 - [DOLLARS的历史书](https://drrr.wiki/事件)
 
 
@@ -995,7 +994,7 @@ but it works
 
 &emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将两人禁言。后MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan滥用权限，将历史记录中自己发言的部分删掉，且将XC聊天室?jspvz频道的记录彻底删除，试图掩盖证据。XC名声在JSPVZ进一步恶化。
 
-&emsp;本节内容转载并修改自[JSPVZ社区](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月26日-XChat冲突)。
+&emsp;本节内容转载并修改自当时的JSPVZ社区Wiki。
 
 ### lol事件
 &emsp;HC的管理员lol（此处以及**本章节**的下文都不是指的Laugh out loud缩写）一向被认为对中国人不友好，曾经发表反华言论与各种对中国用户不利的言论。本节所述的是2022年8月下旬的lol事件。
