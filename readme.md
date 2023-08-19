@@ -1,5 +1,3 @@
-# This repo *may* be no longer maintained
+# HC History
 
-New repo at:https://github.com/Hiyoteam/ChatroomHistoryBook/
-
-New Page at:https://hiyoteam.github.io/ChatroomHistoryBook/
+readme is WIP.
