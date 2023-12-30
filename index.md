@@ -1,3 +1,7 @@
+# 请去新版 <https://github.com/HCWiki/history>
+
+# Please go to new version <https://github.com/HCWiki/history>
+
 # 聊天室历史书
 **版本10.0，于2023年7月更新。**
 

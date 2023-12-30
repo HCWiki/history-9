@@ -1,3 +1,3 @@
-# HC History
+# 请去新版 <https://github.com/HCWiki/history>
 
-readme is WIP.
+# Please go to new version <https://github.com/HCWiki/history>
